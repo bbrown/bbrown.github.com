@@ -1,0 +1,12 @@
+---
+layout: post
+title: Bad Day
+date: '2006-07-24 22:04:00 -0700'
+mt_id: 1131
+blog_id: 1
+post_id: 1131
+basename: bad-day
+categories:
+- personal
+---
+Today was a bad day.

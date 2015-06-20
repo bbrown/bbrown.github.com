@@ -1,0 +1,16 @@
+---
+layout: post
+title: Woo Hoo
+date: '2006-03-13 14:34:00 -0700'
+mt_id: 1093
+blog_id: 1
+post_id: 1093
+basename: woo-hoo
+categories:
+- go-daddy
+---
+<p>Our team blog is now up and ready for business! It's called <a href="http://onlinequickblog.com/">Quick Blogging</a>, which is the name I came up with for the time being, and I've got <a href="http://onlinequickblog.com/2006/03/10/my-name-is-william-bill-for-short.aspx">the second entry</a>. It made it through the process with only the addition of the &#xAE; symbol.</p>
+<p>I doubt anyone outside of the people I've directly told has been there, but that will soon change. I can't wait to see what sort of comments we get!</p>
+<p>[UPDATE: Bonus points if you know where the post's title came from.]</p>
+<p>[UPDATE (3/14/2006): Some fargin icehole named Roman Moroni <a href="http://onlinequickblog.com/2006/03/10/my-name-is-william-bill-for-short.aspx#comment-17285">left a comment</a>.]
+</p><p style="font-size:xx-small;">[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]</p>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: MM
+date: '2004-04-07 14:04:31 -0700'
+mt_id: 723
+blog_id: 1
+post_id: 723
+basename: mm
+categories:
+- politics
+---
+<br />I can't stand the guy, but you can't beat <a href="http://www.michaelmoore.com/index_hires.php">his creativity</a>.<br /><br /><br />

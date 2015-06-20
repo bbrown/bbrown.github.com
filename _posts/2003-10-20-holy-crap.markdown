@@ -1,0 +1,10 @@
+---
+layout: post
+title: Holy Crap!
+date: '2003-10-20 20:41:51 -0700'
+mt_id: 590
+blog_id: 1
+post_id: 590
+basename: holy-crap
+---
+<br />Three days till <a href="http://www.apple.com/macosx/">Panther</a> is released and I still haven't preordered. Crud.<br /><br />[UPDATE: Fixed that. It'll be here in the afternoon on October 24th. Phew, that was close.]<br /><br /><br />

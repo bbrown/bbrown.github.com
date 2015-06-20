@@ -1,0 +1,36 @@
+---
+layout: post
+title: Get Short
+date: '2011-05-31 00:50:10 -0700'
+mt_id: 1453
+blog_id: 1
+post_id: 1453
+basename: get_short
+categories:
+- mac-os-x
+- go-daddy
+---
+<p>
+Inspired by <a href="http://www.dirtdon.com/?p=886">this helpful post</a> about <a href="http://www.alfredapp.com/">Alfred</a>, I thought I'd share a quick and easy way to shorten a URL with <a href="http://app.x.co/">X.CO</a> using Alfred.
+</p>
+<p>
+First thing you'll need is your API key, which can be found on the <a href="http://app.x.co/Setting.aspx">Settings</a> page.
+</p>
+<p>
+Once you have that, you just need to fill in the Terminal Shortcut like so:
+</p>
+<p>
+<img src="http://bbrown.info//shorten-then-copy.png" alt="Alfred Settings for the X.CO integration" border="0" width="584" height="345" />
+</p>
+<p>
+That "Command" field reads (replace KEY with the API key you copied previously): <code>curl -s http://api.x.co/Squeeze.svc/text/KEY?url={query} | pbcopy</code>
+</p>
+<p>
+Hit "Save," make it "Silent" by checking that box, and you're ready to shorten. To use it, invoke Alfred, type "x http://your-url-to-shorten.com/", and press Return. Your clipboard will contain the shortened URL.
+</p>
+<p>
+Another option that works really well is to create a Terminal Shortcut mapped to "xc" that runs the Command "<code>curl -s http://api.x.co/Squeeze.svc/text/KEY?url=$(pbpaste) | pbcopy</code>". This version will pull the source URL from your clipboard, shorten it, and replace it on the clipboard with the shortened form. That is very handy.
+</p>
+<p style="font-size:xx-small">
+[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]
+</p>

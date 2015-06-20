@@ -1,0 +1,12 @@
+---
+layout: post
+title: Start-Ups
+date: '2003-09-05 01:26:31 -0700'
+mt_id: 510
+blog_id: 1
+post_id: 510
+basename: start-ups
+categories:
+- future-reference
+---
+<br />For my future reference: <a href="http://www.barrymoltz.com/justbusiness/">articles on starting up a business from Barry Moltz</a>.<br /><br /><br />

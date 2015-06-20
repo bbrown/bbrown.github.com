@@ -1,0 +1,30 @@
+---
+layout: post
+title: Too Quick
+date: '2006-09-19 21:55:00 -0700'
+mt_id: 1145
+blog_id: 1
+post_id: 1145
+basename: too-quick
+categories:
+- psychology
+- personal
+---
+<p>
+I've been noticing lately that I am too quick to make judgements. I first learned of this problem from Aaron T. Beck, who called it "catastrophizing." In a nutshell, that's the practice of blowing innocuous events out of proportion. Examples abound in my personal life: someone doesn't respond to my instant messages for hours or emails for days and I start to wonder if I've lost a friend or burnt a bridge; a friend doesn't hang out with me and I feel an intense desire to confront him; my wife comments that the kids are out of control and I assume she's derogating my parenting.
+</p>
+<p>
+It's a very real problem because it can sour a relationship due to resentment, anger, need for reassurance, and even hostility. It hasn't happened very often to me because I've learned to keep it inside&#x2014;I feel all of these negative emotions but I don't express them. But it can lead to dwelling on problems even though the catalytic event had a perfectly reasonable explanation that had no personal causation: busyness, inattention, insensitivity, or even self-absorption.
+</p>
+<p>
+But the act of keeping it inside isn't terribly satisfying because it is very distracting. I am constantly analyzing the events leading up to the triggering event, searching for actions on my part that might have contributed to the perceived breakdown. Generally, I can't find them (for obvious reasons) and so I tend to lash out internally at the person. This cathartic behavior often allows me to introspect on my reaction, thereby defusing the catastrophizing.
+</p>
+<p>
+The introspection typically takes the form of Socratic self-questioning. "Is there an alternate explanation for this person's behavior?" "Is that behavior consonant with past behavior?" "Does it fit the level of friendship or love you've established?" "Is it possible that you're overreacting?" "Can you wait a few days to confront the person?"
+</p>
+<p>
+I think that these questions get at the heart of the matter: catastrophizing is often a psychological version of injustice. Justice is the act of granting that which someone deserves. Psychologically, this takes the form of gratitude or righteous anger, to pick but two examples of justice-related emotions. Catastrophizing severs this tie: leaving emotions that aren't truly related to the other person. It's almost as if you whip yourself into a froth over nothing.
+</p>
+<p>
+<em>This is the first in an ongoing series of introspective entries I wish to undertake in order to gain a better insight into what makes me tick. They may have no meaning to anyone besides me as they are not intended as psychological treatises and undergo only the lightest of editing.</em>
+</p>

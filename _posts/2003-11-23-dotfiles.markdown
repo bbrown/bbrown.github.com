@@ -1,0 +1,12 @@
+---
+layout: post
+title: Dotfiles
+date: '2003-11-23 22:36:26 -0700'
+mt_id: 641
+blog_id: 1
+post_id: 641
+basename: dotfiles
+categories:
+- mac-os-x
+---
+<br />Cool repository of <a href="http://www.dotfiles.com/index.php3?app_id=21">dotfiles</a> for your perusal and downloading. Why make your own .tcshrc when you can start with someone&#x2014;presumably more adept&#x2014;else's?<br /><br /><br />

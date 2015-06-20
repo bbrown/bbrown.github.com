@@ -1,0 +1,12 @@
+---
+layout: post
+title: Phew!
+date: '2004-04-21 20:32:53 -0700'
+mt_id: 727
+blog_id: 1
+post_id: 727
+basename: phew
+categories:
+- google
+---
+<br />So I finally made it into the <a href="http://gmail.google.com/">Gmail</a> beta test program. I was very concerned that I wasn't going to get my favorite userid, "bbrown," and would be forced to choose something like "bill-brown" or "bbrown1."<br /><br />Now that I've got it, I'm starting to see why people are underwhelmed. I've got three active domains right now, all of which have passable webmail facilities. I don't see myself having a canonical email address that isn't off of one of those domains. The closest I ever came to such an address is my b-b-r-o-w-n_a-t_&#x2014;screw it, it gets so much spam as it is that I don't need to be sekr1t1ve&#x2014;bbrown@asu.edu address. Right now it just forwards to my dial-up account's box, but I don't really give it out anymore since I created bbrown.info.<br /><br />That being said, it looks very well conceived. I like the layout and the functionality. I just wish I could think of a reason to use it.<br /><br /><br />

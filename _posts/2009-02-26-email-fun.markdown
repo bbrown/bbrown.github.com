@@ -1,0 +1,25 @@
+---
+layout: post
+title: Email Fun
+date: '2009-02-26 21:25:52 -0700'
+mt_id: 1407
+blog_id: 1
+post_id: 1407
+basename: email-fun
+categories:
+- high-geekery
+---
+<p>
+In speaking with a co-worker, I mentioned a couple email tips that he hadn't heard. Thinking that others may be in the same boat, I offer them here:
+</p>
+<ul>
+<li>
+Gmail: you can put periods throughout the username and Google will ignore them. So "bbrown" can be "b.brown," "bbr.own," or even "b.b.r.o.w.n." and the emails will come through.
+</li>
+<li>
+Gmail: you can append a plus sign and additional text to the username and Google will also ignore that text. "bbrown+specialdeal," "bbrown+spam," and "bbrown+yahoo" all get to their proper final destination. This and the other tip plus Gmail's filters enable you to create disposable email addresses without preplanning.
+</li>
+<li>
+<a href="http://www.mailinator.com/">Mailinator</a> is the king of throwaway email addresses. In a form, enter <em>something</em>@mailinator.com and you can access that username's messages through the <a href="http://www.mailinator.com/maildir.jsp?email=something">mailinator Web site</a>. Anyone else can access the email, so this isn't really useful for anything besides anonymous emailing.  Some sites have caught on and check for the mailinator domain name, but there are <a href="http://mailinator.blogspot.com/2007/10/new-mailinator-alternate-domains.html">plenty</a> of aliases available (you can even <a href="http://www.mailinator.com/faq.jsp">point</a> your own domain's MX record there).
+</li>
+</ul>

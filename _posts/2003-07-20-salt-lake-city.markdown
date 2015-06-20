@@ -1,0 +1,10 @@
+---
+layout: post
+title: Salt Lake City
+date: '2003-07-20 00:51:24 -0700'
+mt_id: 364
+blog_id: 1
+post_id: 364
+basename: salt-lake-city
+---
+<br />I'm in my grandparents' basement in their Salt Lake City abode writing this. We made it in to SLC yesterday at about 4:30ish after leaving at 6:30ish that morning. In other words, we made really good time. I probably averaged 70 mph the entire trip; it would've been higher except that I got stuck behind some yahoos in the Navajo reservation and there's a long stretch with virtually no passing lanes.<br /><br />One of the things I noticed in driving up Highway 89 is that there's an incredible number of small towns just past the Arizona border. Each one co-opts the highway and calls the stretch of it that bifurcates their town Main Street. Of course, you can't have a Main Street with a speed limit of 75 mph so they chop it in more than half to 35 mph. I'm sure that, aside from getting some face time with drivers, it's also a lucrative source of revenue. It's very difficult to decelerate quick enough to not warrant a speeding ticket.<br /><br />But did I get one? No way, baby! No tickets for me. My ticketless streak is unbroken. It's been about three years since the last one, which is impressive for me because I've been getting one (or two) every two years and going to traffic school for it since I was sixteen. Do the math and that works out to about six tickets&#x2014;yep, that's right.<br /><br />The other thing I noticed is that the Mormon religion is much more entrenched here than I realized. Okay, that's not a profound statement but there's nothing more visual than seeing two Mormon temples next to a mall in Provo. Or state road signs indicating important Mormon sites. Or religious billboards everywhere. Or the LDS bumper stickers. Or...well, the trip is young.<br /><br />To <a href="http://www.mapquest.com/">Mapquest</a>: I forgive you about the horrible directions to my grandparents' house once we were in Salt Lake because you got us off the Highway 89 speed trap and on to I-15. Thank you.<br /><br /><br />

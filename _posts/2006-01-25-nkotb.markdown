@@ -1,0 +1,16 @@
+---
+layout: post
+title: NKOTB
+date: '2006-01-25 03:19:00 -0700'
+mt_id: 1066
+blog_id: 1
+post_id: 1066
+basename: nkotb
+categories:
+- go-daddy
+---
+<p>We found out yesterday that we've added another developer to the Quick Blog. Additions like this always fill me with trepidation because they have great potential to change team dynamics and generally you have no idea how this new person will integrate with the team. And when you bring in an unknown from the outside, you never really know if your interview impressions are an accurate assessment of the person. It doesn't help that I've been <a href="/2005/05/11/hostile-work-environments-2.aspx">once bitten</a>.</p>
+<p>Luckily, we added a developer from within Go Daddy. From my understanding, he's been here awhile and came over when Go Daddy acquired his company, <a href="http://www.innerprise.com/">InnerPrise</a>, which incidentally I think is a spectacular name for a search engine product. He's been working on an extended WHOIS system that's been shuffled off to our Iowa offices, so he's looking for a new start. I met him briefly today and he seemed like a nice enough guy.</p>
+<p>The coolest part of his addition is that he's going to help us get the InnerPrise IP integrated with the blog. So our whole search functionality might be halfway decent instead of the cobbling together I did to get it done for 1.0. Long before he joined the team, I had dreamt of doing just such a thing with his product so this is quite fortuitous.</p>
+<p>[UPDATE (3/1/2006): He's got his own <a href="http://www.godaddy.com/gdshop/blog/landing.asp">Quick Blog</a> called, appropriately enough, <a href="http://blog.greggurath.com/">Greg's Blog</a>.]
+</p><p style="font-size:xx-small;">[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]</p>

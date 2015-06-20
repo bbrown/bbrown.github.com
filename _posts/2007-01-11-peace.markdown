@@ -1,0 +1,15 @@
+---
+layout: post
+title: Peace
+date: '2007-01-11 12:14:00 -0700'
+mt_id: 1185
+blog_id: 1
+post_id: 1185
+basename: peace
+categories:
+- personal
+---
+<p>
+Happiness is &#x2026;<br /><br />
+<img src="http://bbrown.info/ThemeFiles/34-25/images/perfmon.gif" width="445" height="168" alt="Resolution" />
+</p>

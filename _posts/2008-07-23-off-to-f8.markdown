@@ -1,0 +1,16 @@
+---
+layout: post
+title: Off to F8
+date: '2008-07-23 06:41:03 -0700'
+mt_id: 1309
+blog_id: 1
+post_id: 1309
+basename: off-to-f8
+categories:
+- web-tech
+- personal
+- high-geekery
+---
+<p>
+I'm getting ready to fly out to San Francisco for the <a href="http://www.facebook.com/f8">F8 Conference</a> put on by Facebook. We're leaving Phoenix at 7:20 AM and returning to Sky Harbor by 10:30 PM, so it's going to be a long day but very much worth it&#x2014;I hope. I plan to blog my raw notes for each session throughout the conference for my colleagues that couldn't attend as well as posterity.
+</p>

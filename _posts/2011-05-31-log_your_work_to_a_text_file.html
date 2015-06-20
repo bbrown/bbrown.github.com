@@ -1,0 +1,45 @@
+---
+layout: post
+title: Log Your Work to a Text File
+date: '2011-05-31 00:24:07 -0700'
+mt_id: 1452
+blog_id: 1
+post_id: 1452
+basename: log_your_work_to_a_text_file
+categories:
+- mac-os-x
+- getting-things-done
+---
+<p>
+I read about the virtues of logging what you do all day <a href="http://lifehacker.com/189772/geek-to-live--quick+log-your-work-day">long ago</a>, but a recent article re-kindled my interest. (Sadly, I can't locate that blog entry and it was a very good one.)
+</p>
+<p>
+On Quicksilver, it was <a href="http://www.43folders.com/2005/11/21/qs-redux">rather easy</a> to accomplish a digital work journal. But I don't use Quicksilver any longer&mdash;I've converted wholly to <a href="http://www.alfredapp.com/" title="I paid for the Power Pack. That's saying something.">Alfred</a>. It's almost as perfect as Quicksilver; I miss the large-type view and some of the gratuitous animations, but it has the benefit of being usable.
+</p>
+<p>
+My first order of business was to figure out how to append a message containing an automatically generated timestamp to the end of a text file. This was surprisingly harder than I thought. There really wasn't any decent shell scripts I could find via Google and the searches yielded a lot of ways to time stamp a log file.
+</p>
+<p>
+Here's what I ended up cobbling together:
+</p>
+<p>
+<code>
+#!/bin/bash<br />
+echo "$(date +%Y-%m-%d/%T): $@" >> ~/Dropbox/PlainText/Work/Work\ Log.txt<br />
+</code>
+</p>
+<p>
+This produces a line like "<code>2011-05-30/13:13:00: Testing script</code>" when you enter "<code>./work.sh Testing script</code>" on a Terminal prompt. That's exactly what I want to log and putting it in that location syncs it automatically with Dropbox and makes it available to <a href="http://www.hogbaysoftware.com/products/plaintext" title="Really beautiful text editor">PlainText</a> on the iPad and iPhone.
+</p>
+<p>
+Now I just needed to make it easy to use from Alfred. I originally created a bash alias called "work" so I could just type "<code>> work Test script</code>" into Alfred. Then I discovered a <a href="http://www.dirtdon.com/?p=886">helpful tip</a> about a new Alfred feature: Terminal Shortcuts.
+</p>
+<p>
+<img src="http://bbrown.info//alfred-screen-shot.png" alt="Settings for Alfred integration" border="0" width="584" height="345" />
+</p>
+<p>
+It works like a charm!
+</p>
+<p>
+[UPDATE (5/31/2011): <a href="http://blogs.hbr.org/cs/2011/04/four_reasons_to_keep_a_work_di.html">This</a> isn't the article I read, but it's good nonetheless.]
+</p>

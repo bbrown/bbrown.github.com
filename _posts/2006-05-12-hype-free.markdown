@@ -1,0 +1,13 @@
+---
+layout: post
+title: Hype-Free
+date: '2006-05-12 17:44:00 -0700'
+mt_id: 1121
+blog_id: 1
+post_id: 1121
+basename: hype-free
+categories:
+- go-daddy
+---
+<p>I like my job.</p>
+<p style="font-size:xx-small;">[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]</p>

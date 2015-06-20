@@ -1,0 +1,12 @@
+---
+layout: post
+title: Apple Ads
+date: '2003-05-06 10:28:31 -0700'
+mt_id: 192
+blog_id: 1
+post_id: 192
+basename: apple-ads
+categories:
+- mac-os-x
+---
+<br />In support of its new <a href="http://www.apple.com/music/store/">iTunes Music Store</a>, <a href="http://www.apple.com/">Apple</a> is, of course, preparing some <a href="http://www.apple.com/music/ads/">ads for television</a>. They're very <a href="http://www.apple.com/switch/ads/">Switch</a>-like and feature various people singing their favorite songs.<br /><br /><a href="http://www.apple.com/music/ads/jacob.html">Jacob</a> really disturbs me. I'm not sure if it's the fact that he's singing Eminem's <a href="//phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Lose%20Yourself&amp;artistTerm=Eminem">"Lose Yourself"</a> or his voice. Whatever it is, my face tightens every time I watch it.<br /><br />There's no <a href="http://www.apple.com/switch/ads/ellenfeiss.html" title="Cult hero of the Switch campaign">Ellen Feiss</a> in this batch and the closest for comic relief is <a href="http://www.apple.com/music/ads/nic.html">Nic</a> singing Sir Mix-A-Lot's <a href="//phobos.apple.com/WebObjects/MZSearch.woa/wa/advancedSearchResults?songTerm=Baby%20Got%20Back&amp;artistTerm=Sir%20Mix-a-Lot" title="The fact that it's not available in iTunes Music Store leads me to believe this ad won't air.">"Baby Got Back"</a>.<br /><br /><br />

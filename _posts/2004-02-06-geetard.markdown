@@ -1,0 +1,12 @@
+---
+layout: post
+title: Geetard
+date: '2004-02-06 01:04:56 -0700'
+mt_id: 688
+blog_id: 1
+post_id: 688
+basename: geetard
+categories:
+- future-reference
+---
+<br />For my future reference, <a href="http://ask.yahoo.com/ask/20040206.html">learn to play guitar online</a>. I've got an interesting story to relate about my guitar lessons thus far, but it'll have to wait for an update right now.<br /><br /><br />

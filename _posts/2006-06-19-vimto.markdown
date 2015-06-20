@@ -1,0 +1,14 @@
+---
+layout: post
+title: Vimto
+date: '2006-06-19 08:03:00 -0700'
+mt_id: 1128
+blog_id: 1
+post_id: 1128
+basename: vimto
+categories:
+- soda-reviews
+---
+<p>This is an English soda given to me by my boss, who wanted to see my review of it. Between its national heritage and its billing as a "sparkling grape, blackcurrant, and raspberry juice drink" I had very low expectations going into it. No bad aftertaste, but not so good in the duringtaste. It's way better than any other grape soda, but I'm not a big fan of grape sodas.
+<a href="http://www.vimto.co.uk/">Official site</a> | <a href="http://en.wikipedia.org/wiki/Vimto">Wikipedia entry</a>
+<br /><br /><strong>2 of 5 stars</strong></p>

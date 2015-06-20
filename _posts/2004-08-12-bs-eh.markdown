@@ -1,0 +1,12 @@
+---
+layout: post
+title: BS, Eh?
+date: '2004-08-12 02:33:24 -0700'
+mt_id: 786
+blog_id: 1
+post_id: 786
+basename: bs-eh
+categories:
+- observations
+---
+<br />The <a href="http://www.bsa.org/">Business Software Alliance</a> is <a href="http://news.com.com/2100-1012_3-5303966.html">looking for a new name</a> for its <a href="http://www.playitcybersafe.com/">new mascot</a>.<br /><br />I wonder what other animal mascots were under consideration before they chose a ferret? A rat, for ratting out your employer? A pigeon, for being a stool pigeon? A lovable, anthropomorphized whistle, for blowing the whistle?<br /><br />I guess they chose ferret because it sounds like they're ferreting out software piracy. In fact, they're largely fueled by tips from disgruntled employees. It's a little chilling that they're targeting kids in this campaign.<br /><br />[NOTE: I say this as a firm believer in copyright and the sanctity of property. I am not a big fan of the BSA, which frequently uses thug-like tactics and soft-glove extortion to pursue its ends. I believe it is superfluous since a proper system of law enforcement would supplant it.]<br /><br /><br />

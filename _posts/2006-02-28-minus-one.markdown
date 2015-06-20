@@ -1,0 +1,16 @@
+---
+layout: post
+title: Minus One
+date: '2006-02-28 09:04:00 -0700'
+mt_id: 1088
+blog_id: 1
+post_id: 1088
+basename: minus-one
+categories:
+- go-daddy
+---
+<p>Yesterday <a href="http://davidlevitt.com/">my co-worker</a> <a href="http://davidlevitt.com/2006/02/27/two-weeks.aspx">announced</a> that he's moving to Idaho and leaving Go Daddy's employ. It stinks because he was the second developer on board and he's been instrumental in so many aspects of the app. We've been through a lot and I felt really comfortable having him around. I even told him that reading his code made my eyes bleed because of his Hungarian notation and he didn't key my car. That's a team right there. Luckily, he's converted to a paying customer so there will always be a part of Dave in Go Daddy.</p>
+<p>That leaves <a href="http://greggurath.com/">Greg</a> and me to work on 1.3 and releases beyond. Unless, of course, you're a kick-ass C# developer who's passionate about blogs and wants to join our little revolution. Because, hey, do you know any better programmers than yourself?</p>
+<p style="font-size:xx-small;">[The views expressed on this
+website/weblog are mine alone and do not necessarily reflect the views
+of Go Daddy Software, Inc.]</p>

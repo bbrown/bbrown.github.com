@@ -1,0 +1,10 @@
+---
+layout: post
+title: FOAFY
+date: '2003-07-24 09:36:50 -0700'
+mt_id: 376
+blog_id: 1
+post_id: 376
+basename: foafy
+---
+<br /><a href="http://joi.ito.com/">Joi Ito</a>'s recent <a href="http://joi.ito.com/archives/2003/07/21/technorati_talks_foaf.html">entry</a> sparked my interest in <acronym title="Friend Of A Friend">FOAF</acronym>&#x2014;I missed the meme the first time around (well, I saw it but I just didn't care at the time). Quite coincidentally, I stumbled across this <a href="http://hotwired.lycos.com/webmonkey/03/24/index0a.html">Webmonkey article</a> covering metadata this morning as well. I'll keep looking into this. If you have any important evaluations about this technology, please leave a message in the comments. I don't get the value in this since it seems like XML blogrolling.<br /><br /><br />

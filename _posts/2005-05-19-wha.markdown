@@ -1,0 +1,12 @@
+---
+layout: post
+title: Wha?!
+date: '2005-05-19 14:33:35 -0700'
+mt_id: 903
+blog_id: 1
+post_id: 903
+basename: wha
+categories:
+- google
+---
+<br /><a href="http://www.google.com/ig">My Google</a>?!<br /><br /><br />

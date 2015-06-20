@@ -1,0 +1,12 @@
+---
+layout: post
+title: New Phone
+date: '2005-05-11 16:25:50 -0700'
+mt_id: 892
+blog_id: 1
+post_id: 892
+basename: new-phone
+categories:
+- technology
+---
+<br />I recently had to buy a new cell phone since my previous one was provided by my employer. I shopped around for the plan and provider that best suited me&#x2014;not an easy task since they all have similar, but not the same, features. I eventually decided on <a href="http://www.sprintpcs.com/">Sprint PCS</a> because they had a plan that seemed reasonable, they seemed to consistently work with the latest technology, and their phone selection/pricing resonated.<br /><br />I ended up choosing a <a href="http://product.samsung.com/cgi-bin/nabc/product/b2c_product_detail.jsp?prod_id=SPH-I500">Samsung i500</a>, which is a hybrid Palm/cell phone. It's a flip and much more compact than a lot of the Treos. The clincher was the $100 price tag (after $150 instant savings and $50 service credit). I've already ditched my <a href="/blogs/bblog/archives/self-organized.cfm">Hipster PDA</a>; the only reason I ever used it was because I found myself unwilling to carry either my Palm III or my Palm Zire 21 with me at all times. By marrying my cell phone, which is similar to my wallet in its reluctance-to-leave-home-without-it quality, with my Palm, I've freed up a pocket. Sure, the stylus is tiny and the Graffiti area is small: I can live with that since I do most of my data entry through the Palm Desktop.<br /><br />In my first week of experience with the phone, I can say that I would be hesitant to leave Sprint because it would mean giving up this phone.<br /><br />[UPDATE (5/18/05): After extended use, I can safely say that this phone rocks! I've looked at the Treos and used a Blackberry and they're basically just PDAs with a microphone and speaker oriented for people's heads. The i500 is a phone with a PDA grafted into it. The separation of the screen from the Graffiti writing area is inspired: it allows for an elongated screen and only a marginally bigger keypad section. More screen is rarely a bad thing.]<br /><br /><br />

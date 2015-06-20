@@ -1,0 +1,10 @@
+---
+layout: post
+title: CompUSA
+date: '2003-06-14 07:32:36 -0700'
+mt_id: 256
+blog_id: 1
+post_id: 256
+basename: compusa
+---
+<br />After reading <a href="http://billpalmer.blogspot.com/">Bill Palmer</a>'s account of <a href="http://billpalmer.blogspot.com/2003_06_01_billpalmer_archive.html#95163481">his visit to CompUSA</a>, I may actually want to check back in. How heartening!<br /><br /><br />

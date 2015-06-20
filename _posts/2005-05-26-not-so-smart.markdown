@@ -1,0 +1,12 @@
+---
+layout: post
+title: Not So Smart
+date: '2005-05-26 01:17:28 -0700'
+mt_id: 913
+blog_id: 1
+post_id: 913
+basename: not-so-smart
+categories:
+- psychology
+---
+<br /><a href="http://www.scottberkun.com/essays/essay40.htm">"Why Smart People Defend Bad Ideas"</a>: I think this is an important essay for me to digest in understanding people. Here's the part that I found most pregnant (it's kind of long but way shorter than the essay itself):<blockquote>&#x2026; Smart people, or at least those whose brains have good first gears, use their speed in thought to overpower others. They'll jump between assumptions quickly, throwing out jargon, bits of logic, or rules of thumb at a rate of fire fast enough to cause most people to become rattled, and give in. When that doesn't work, the arrogant or the pompous will throw in some belittlement and use whatever snide or manipulative tactics they have at their disposal to further discourage you from dissecting their ideas.<br /><br />So your best defense starts by breaking an argument down into pieces. When they say "it's obvious we need to execute plan A now." You say, "hold on. You're way ahead of me. For me to follow I need to break this down into pieces." And without waiting for permission, you should go ahead and do so.<br /><br />First, nothing is obvious. If it were obvious there would be no need to say so. So your first piece is to establish what isn't so obvious. What are the assumptions the other guy is glossing over that are worth spending time on? There may be 3 or 4 different valid assumptions that need to be discussed one at a time before any kind of decision can be considered. Take each on in turn, and lay out the basic questions: what problem are we trying to solve? What alternatives to solving it are there? What are the tradeoffs in each alternative? By breaking it down and asking questions you expose more thinking to light, make it possible for others to ask questions, and make it more difficult for anyone to defend a bad idea.</blockquote>I've dealt with difficult people in the past who did exactly this sort of thing and I could never put my finger on why it was working. I figured out the "obvious" conceit long ago when a former manager pointed out how it insulted the audience because very little is actually obvious. That was a very important lesson and something that I have strived to eliminate from my thinking ever since.<br /><br /><br />

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Stormin'
+date: '2006-03-20 20:39:00 -0700'
+mt_id: 1099
+blog_id: 1
+post_id: 1099
+basename: stormin
+categories:
+- programming
+- personal
+---
+<p>This web application called <a href="http://www.ovoinnovation.com/software/teamstorm/teamstorm.php">Spark</a> is awfully close to a cool brainstorming application I developed at my last job. It was one of those flash in the pan ideas that occurred to me while I was sitting there deploying a new version of the online banking system. It was about 2 in the morning while I was waiting on our slow-as-molasses Data Processing team to bring the mainframe back up when inspiration hit.</p>
+<p>It was a Jerry Maguire moment. I spent the next three hours developing the entire application in rough form just so I could get all my ideas out. I got them all in there and I loved the idea. Naturally, management was perfunctorily interested and I never got the resources to clean it up. I think it was an amazing tool and I will definitely develop a version of it one of these days, maybe make it open source.</p>
+<p>As for Spark, close but no cigar. They missed a lot of opportunities there.</p>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Touching Fenders
+date: '2005-06-30 07:46:28 -0700'
+mt_id: 951
+blog_id: 1
+post_id: 951
+basename: touching-fenders
+categories:
+- personal
+---
+<br />Today at lunch I went to <a href="http://www.homedepot.com/">Home Depot</a> to pick up a few things for around the house and <a href="http://www.mcdonalds.com/">McDonald's</a> to have a Big Mac since I haven't had one in I-don't-know-how-long.<br /><br />As I am <a href="http://local.google.com/maps?ll=33.618434,-111.892265&amp;spn=0.005865,0.010131">turning off</a> the Loop 101 frontage road and on to Raintree. As is often the case, it's hard to see oncoming Raintree traffic so I started and had to stop just as quickly.<br /><br />Of course, the car behind me thought I was going to floor it or something because I got a nice little jolt. I said a quick curse about the perils of driving in Scottsdale&#x2014;a full explication of which will have to wait for a future entry though I've touched on it in the <a href="/blogs/bblog/archives/random-thoughts.cfm">past</a>&#x2014;and motioned for the car to pull over. (I'm constantly afraid that someone won't pull over. Knowing myself, I know that I'd follow them to the ends of the earth and would probably end up getting a severe beating from the occupant.)<br /><br />Luckily, the driver did. We checked our vehicles for damage and discovered that there wasn't any. In these situations (which have sadly been all too frequent), my preferred course of action is to say, "Looks fine by me" and get moving. Ol' Darlene, apparently less familiar with the post-fender&#x2013;bender customs, decided that she wanted to network or something.<br /><br />After telling her that we're good to go, she let's me know that I'm now in her "prayer ring" or something. She also effusively thanked me for "getting her back to where she should be." I wasn't particularly clear if she meant pulled off to the side of Raintree Drive, reality, or standing there wanting to shake my hand. Frankly, I don't want to know.<br /><br />If I had been on my game, I would have asked whether she was a Californian so as to confirm my suspicions and add a data point to my developing hypothesis about the resettlement of Arizona by them. Sure our housing prices are through the roof but we get space-cadet drivers, environmentalism, and New Age garbage. Next thing you know, they'll be electing <a href="http://www.azcentral.com/specials/special27/articles/0620cooper0620.html">Alice Cooper</a> governor in a special recall election of Janet Napolitano.<br /><br /><br />

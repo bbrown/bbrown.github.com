@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wiki Up
+date: '2003-12-11 03:01:02 -0700'
+mt_id: 648
+blog_id: 1
+post_id: 648
+basename: wiki-up
+---
+<br />There's an insightful interview with <a href="http://c2.com/cgi/wiki%3FWardCunningham">Ward Cunningham</a> on <a href="http://www.artima.com/intv/wiki.html">wikis</a> over at <a href="http://www.artima.com/">Artima</a>. I can't say that I'm fond of wikis, but I'm beginning to understand them more after reading that interview.<br /><br /><br />

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Resize Me
+date: '2005-06-06 02:58:30 -0700'
+mt_id: 925
+blog_id: 1
+post_id: 925
+basename: resize-me
+categories:
+- high-geekery
+---
+<br /><a href="http://www.extensionsmirror.nl/index.php?showtopic=2796">Resizable Text Area Extension</a>: this Firefox extension makes the edges of any textarea get those little arrow cursors for easy expansion in realtime. OMFG, this is awesome; you have to see it to totally grok it. I still like OmniWeb's text area zoom box because it's more like a text editor than a textarea, but it opens up a new window, which I don't like. {<a href="http://www.punkey.com/pivot/entry.php?id=1829">via</a>}<br /><br /><br />

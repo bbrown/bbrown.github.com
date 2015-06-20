@@ -1,0 +1,23 @@
+---
+layout: post
+title: Full Auto
+date: '2007-03-02 15:01:00 -0700'
+mt_id: 1216
+blog_id: 1
+post_id: 1216
+basename: full-auto
+categories:
+- net-development
+---
+<p>
+The <code>Page_Load</code> event was firing twice&#x2014;inexplicably. If I removed the explicit declaration in the code-behind class, then it fired once. That pointed clearly to two bindings, but I could not find anything in the usual haunts of global code. Nothing had changed except that we moved to .NET 2.0.
+</p>
+<p>
+Of course, I found out that in ASP.NET 2.0 <code>AutoEventWireup</code> defaults to <code>true</code> even if no <code>Page</code> declaration is present. Well, that's a fine how-do-you-do! In 1.1, it defaulted to <code>false</code>, which made abundant sense. When migrating an application, you'd think that that would have been accounted for since it is such a potentially-disastrous change.
+</p>
+<p>
+I mean it's one thing to have Page_Load fire twice. It's another entirely if you've got initialization stuff in OnInit or if you're doing any multicast delegation. Crazy!
+</p>
+<p>
+Oh, so the easy fix is to change it in <code>machine.config</code> or <code>Web.config</code> by adding a <code>autoEventWireup="false"</code> to the <code>pages</code> element. Problem solved.
+</p>

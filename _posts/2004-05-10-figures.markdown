@@ -1,0 +1,12 @@
+---
+layout: post
+title: Figures
+date: '2004-05-10 01:40:23 -0700'
+mt_id: 735
+blog_id: 1
+post_id: 735
+basename: figures
+categories:
+- metasite
+---
+<br />It figures. The day after I switch over to MovableType because of Blogger's poor features, they <a href="http://www.blogger.com/knowledge/2004/05/great-blogger-relaunch.pyra">add many</a> of the new features I wanted. I guess I've still got categories and richer templating. *sigh*<br /><br />[UPDATE (5/14/04): On the other hand, I'm glad I got into MT while the <a href="http://www.sixapart.com/corner/archives/2004/05/its_about_time.shtml">getting's good</a>. I'm <a href="/blogs/bblog/archives/000192.cfm">not against</a> paying for software, but if it's free then I'm going to enjoy it.]<br /><br /><br />

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wal-Mart
+date: '2003-09-09 18:43:29 -0700'
+mt_id: 518
+blog_id: 1
+post_id: 518
+basename: wal-mart
+---
+<br />Hilarious <a href="http://www.theonion.com/"><cite>Onion</cite></a> article from the perspective of a <a href="http://www.theonion.com/3935/opinion1.html">Wal-Mart store</a>.<br /><br /><br />

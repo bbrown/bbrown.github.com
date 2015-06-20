@@ -1,0 +1,56 @@
+---
+layout: post
+title: Times the Times Tables
+date: '2012-12-11 19:00:29 -0700'
+mt_id: 1498
+blog_id: 1
+post_id: 1498
+basename: times-the-times-tables
+categories:
+- python
+- high-geekery
+- mac-os-x
+---
+<p>
+My nine-year-old daughter is really slow at addition, subtraction, and multiplication&mdash;she often needs to use her fingers to do simple calculations. This is very worrisome to me because arithmetic is the foundation of so much mathematics that her inability is going to be a serious problem soon.
+</p>
+<p>
+My wife and I learned arithmetic using verbalized tables that we had to memorize. That's out of style in American education nowadays, but it's really an effective technique. Rather than have one of us recite them over and over with her, we thought that this was a perfect application for technology.
+</p>
+<p>
+I surveyed the available options on the App Store and none of them offered audio recitation of the times tables. My wife reminded me that the iTunes Store would probably have something, so I opened the iTunes app. They had times tables, but each number was a separate track and they were very kitschy: one set, in fact, had each number done in the style of a different rapper.
+</p>
+<p>
+This was ridiculous! I certainly had no intention of paying $9.99 for recordings of dubious utility. Luckily, I'm a geek and this is a very simple problem:
+</p>
+<p style="font-weight:bold;">
+Generate 144 strings and make a recording of a computer voice verbalizing them.
+</p>
+<p>
+I have a Mac so Python was an obvious choice:
+</p>
+<code><pre>
+for i in range(2, 13):
+    for j in range(1, 13):
+    	print(`i` + " times " + `j` + " is " + `(i*j)` + "\r\n\r\n")
+</pre></code>
+<p>
+Save the file somewhere as <code>times_tables.py</code> and fire up the Terminal.
+</p>
+<p>
+This is where it gets amazingly easy! There's a <a href="http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/say.1.html"><code>say</code> command</a> built in to Mac OS X, which uses any number of voices and outputs in many formats. I chose to make an AAC (iPhone-friendly format) version like so:
+</p>
+<p>
+<code>
+python times_table.py | say -v Alex -o times-tables.m4a --data-format=aac
+</code>
+</p>
+<p>
+That's it! I tried a bunch of the varieties and "Alex" was the most melodious, human sounding voice I could find.
+</p>
+<p>
+[UPDATE: Here's a preview (and <a href="/files/times-table.m4a">download</a>) if you want to hear it.]
+</p>
+<p>
+<audio controls src="/files/times-table.m4a" />
+</p>

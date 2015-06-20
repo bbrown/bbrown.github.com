@@ -1,0 +1,10 @@
+---
+layout: post
+title: Power's On
+date: '2003-08-30 13:42:40 -0700'
+mt_id: 494
+blog_id: 1
+post_id: 494
+basename: powers-on
+---
+<br />Today I spent some time at the <a href="http://www.apple.com/retail/biltmore/">local Apple store</a> in an attempt to get a new power brick for Thor, my trusty Rev. A PowerBook G4. I succeeded because we could prove that I bought a new power brick back in December 2002 even though I didn't retain the receipt&#x2014;or, if I did, it wasn't handy. Luckily, a brand new $80 power brick has a one-year warranty. The new bricks now feature a three-pronged plug so that Thor is finally grounded (though not for being a bad boy).<br /><br />This power brick will be treated with the utmost temerity. The first one that broke&#x2014;the one that arced&#x2014;was of the flying saucer variety and I used to unroll it like a yo-yo, which was a lot of fun but hard on the connectors. The second one I treated very kindly but wrapped the cord around its holder too tightly, eventually pulling the cord out of the main assembly. Oops. This last one I treated very kindly and wrapped it extra loosely so that it wouldn't separate. Unfortunately, that didn't help so I am now going to forego wrapping it at all since I can't afford to spend another $80 on a power brick. Well, I could afford it but I've got better ways to spend my money. If it breaks again, which seems inevitable after try #4, then I'm definitely going to look at third-party power supply vendors since Apple's bricks are crap.<br /><br />While there, I lusted over the new 1.8 GHz G5 even though anything less than a Dual 2 is simply unacceptable. ;-) I also investigated a Sony camcorder that was discounted to $499 from $1,199 but it didn't stack up very well to my current odds-on favorite, the <a href="http://www.dvspot.com/reviews/canon/optura20-review/index.shtml">Canon Optura 20</a>. It will be mine. Oh yes, it will be mine.<br /><br /><br />

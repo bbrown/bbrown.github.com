@@ -1,0 +1,23 @@
+---
+layout: post
+title: Up in Arms
+date: '2007-02-03 20:59:00 -0700'
+mt_id: 1205
+blog_id: 1
+post_id: 1205
+basename: up-in-arms
+categories:
+- blogging-world
+---
+<p>
+Last week, <a href="http://www.flickr.com/">Flickr</a> announced that they were going to be converting "old skool" members over to the Yahoo authentication system. As one of those users, I'm not looking forward to the merge but I'm not <a href="http://www.flickr.com/forums/help/32687/">blowing a gasket</a> about it.
+</p>
+<p>
+It was neat signing in as an "old skool" member even though I'm pretty sure that there was no real difference in doing so. I've <a href="http://bbrown.info/2005/11/11/long-time-2.aspx">always felt a little tinge</a> about getting in on things before they were popular or widely recognized for their greatness. It's pretty stupid when you get right down to it, but I like to think of myself as an early adopter.
+</p>
+<p>
+My major fear over the merge is that there's going to be some screw-up. We've got 3,721 photos (about 5,000 or so still left to upload). Earlier this year, we purchased a pro membership and decided to use Flickr as an alternate backup location. We've carefully titled every photo (and tagged many of them) and I'd hate to see all that work go down the crapper so that Yahoo can more easily data mine my account. I'm sure that they've thought through the process, but it's one of those points where bad things happen. I hate bad things happening.
+</p>
+<p>
+But realistically, I'll suck it up and convert. I don't have any particular beef with Yahoo and I've always liked Flickr as a Web application. They've been berry berry good to me so I'll stick with them.
+</p>

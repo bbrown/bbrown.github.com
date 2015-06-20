@@ -1,0 +1,10 @@
+---
+layout: post
+title: Bummer
+date: '2003-08-13 10:27:26 -0700'
+mt_id: 442
+blog_id: 1
+post_id: 442
+basename: bummer
+---
+<br />My <a href="2003_07_27_diamonds.cfm#105971647702168989">moneymaking dreams</a> (as far as this site goes, at least) are dashed: Google has rejected my AdSense application. Apparently, this site is too personal. You heard it here first, folks!<div align="center"><img src="/images/logo76.gif" width="500" height="120" alt="branded too personal by Google!" style="padding:10px;" /></div><br /><br /><br />

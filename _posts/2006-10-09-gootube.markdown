@@ -1,0 +1,31 @@
+---
+layout: post
+title: GooTube
+date: '2006-10-09 22:14:00 -0700'
+mt_id: 1152
+blog_id: 1
+post_id: 1152
+basename: gootube
+categories:
+- google
+- blogging-world
+- business
+---
+<p>
+So Google's going to buy YouTube for <a href="http://www.google.com/intl/en/press/pressrel/google_youtube.html">$1.65 billion</a>. This really doesn't surprise me. Oh sure, there's thorny copyright issues to overcome and <a href="http://finance.google.com/finance?cid=2974344">YouTube's</a> revenue scheme is practically non-existent. But there's three points that made this is a certainty to me: 1) Google already has Google Video; 2) Google blew it with MySpace; and 3) Google needs ad growth.
+</p>
+<p>
+The fact that Google has already done <a href="http://video.google.com/">Google Video</a> indicates that the company realizes that it needs to be a player in this space. It has gone through several revisions, uncharacteristic of Google's <a href="http://www.latimes.com/business/la-fi-google6oct06,0,945092.story">fire-and-forget product development cycle</a>. They've even negotiated exclusive deals with several <a href="http://www.google.com/intl/en/press/pressrel/video.html">content</a> <a href="http://www.google.com/press/pressrel/viacom.html">providers</a>. This is an area that Google wants to own; my gut tells me that it's because it was largely wide-open when they got into it. Music was (and is) dominated by Apple, but movies and video is a nascent market.
+</p>
+<p>
+I remember when <a href="http://www.newscorp.com/news/news_251.html">News Corporation bought MySpace</a> for $580 million reading that Google was an early suitor for the social networking site. My guess is that Google decided that MySpace just wasn't worth it at the time&#x2014;up to that time, by my recollection, all of <a href="http://en.wikipedia.org/wiki/List_of_acquisitions_by_Google">their acquisitions</a> were pretty small potatoes compared to ones by <a href="http://en.wikipedia.org/wiki/List_of_acquisitions_by_Yahoo">Yahoo</a> and <a href="http://en.wikipedia.org/wiki/List_of_Microsoft_acquisitions">Microsoft</a>. That passing proved to be a huge and costly mistake for Google since they then <a href="http://investor.google.com/releases/20060807.html" title="Granted, it's through revenue sharing.">ended up paying $900 million</a> to be MySpace's exclusive search partner later that year. And that's not even including the revenue they could have kept in-house through advertising sales on MySpace's notoriously <a href="http://www.techdirt.com/articles/20060424/0749243.shtml">page-inflationary</a> site.
+</p>
+<p>
+The management at Google probably views YouTube in a much different light because of that blunder. While $1.65 billion might seem dear to us, 100 million videos per day could yield untold amounts of advertising revenue that would be kept within the company. Further, Google could keep YouTube's search functionality for itself. If Google didn't buy YouTube, it's pretty clear that someone else would and the number of companies that could pull off such an acquisition is pretty exclusive. In other words, Google saw another MySpace in the making and acted decisively to stave that possibility off.
+</p>
+<p>
+The addition of 100 million video-based ads and some smaller number of page views for serving textual ads would rejuvenate Google's ad growth in a very big way. With <a href="http://www.latimes.com/technology/la-fi-yahoo20sep20,1,4302394.story">Yahoo's shares tumbling</a> recently on the announcement by its CEO of falling ad revenue, Google could quickly stand out from its peers on that front and <a href="http://finance.google.com/finance?q=goog">watch its stock soar</a> as Wall Street rewards its discovery of a new advertising mine.
+</p>
+<p>
+It should be interesting to see how Google integrates YouTube into its orbit. I suspect that the press release's statement that YouTube will remain as it is is the best move Google could make. Why tamper with what's working? Adopting a ham-handed branding could kill YouTube's popularity and there are certainly <a href="http://www.google.com/search?q=related:www.youtube.com/">any number of players</a> in this space that could bleed YouTube dry if its fortunes changed. In fact, the distinct corporate identity could allow Google to try different ad variations that it couldn't readily do under the AdWords or AdSense umbrellas. In due time, these questions will be answered of course.
+</p>

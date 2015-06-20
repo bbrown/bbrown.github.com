@@ -1,0 +1,20 @@
+---
+layout: post
+title: Blowhard
+date: '2006-10-27 14:48:00 -0700'
+mt_id: 1158
+blog_id: 1
+post_id: 1158
+basename: blowhard
+categories:
+- politics
+- go-daddy
+---
+<p>
+At our company quarterly event today, Representative J.D. Hayworth gave a campaign speech. I'm not in his district so I can't get the pleasure of not voting for him, but good golly! I've never heard such a patronizing, condescending, and phony speaker in my life. He began by administering a "Listening Acuity Test" and repeating it three times even though I'm sure most of the people got it on the first try. He used every rhetorical device in the book (except reading your audience) and concluded with an explicit request for our votes.
+</p>
+<p>
+I wasn't a J.D. Hayworth-hater before (I honestly didn't think of him) but I sure am now.
+</p>
+<p>[UPDATE (11/8/2006): looks like the people of CD5 agreed with my assessment.]
+</p><p style="font-size:xx-small;">[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]</p>

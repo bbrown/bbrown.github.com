@@ -1,0 +1,12 @@
+---
+layout: post
+title: I Like
+date: '2004-10-02 16:35:56 -0700'
+mt_id: 820
+blog_id: 1
+post_id: 820
+basename: i-like
+categories:
+- mac-os-x
+---
+<br /><a href="http://www.macgeekery.com/">MacGeekery</a>: ooo, I like it!<br /><br /><br />

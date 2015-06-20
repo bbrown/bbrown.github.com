@@ -1,0 +1,14 @@
+---
+layout: post
+title: Frucade
+date: '2006-04-19 11:34:00 -0700'
+mt_id: 1111
+blog_id: 1
+post_id: 1111
+basename: frucade
+categories:
+- soda-reviews
+---
+<p>Also known as "Orangenfruchtsaftlimonade," this fruit-based soda is hard to pin down. There's definitely hints of a lemonade, but the carbonation and other fruit juices muddy the waters so to speak. No aftertaste, pleasant taste, but missing something that would rate it higher. I would drink it again, but this doesn't have me suggesting it to anyone I approach.
+<a href="http://www.frucade.at/">Official site</a> | <a href="http://www.popsoda.com/frucade.html">Pop the Soda Shop</a> | <a href="http://en.wikipedia.org/wiki/Frucade" title="Nice, the text in Wikipedia is exactly duplicated at Pop the Soda Shop without attribution.">Wikipedia entry</a>
+<br /><br /><strong>3 of 5 stars</strong></p>

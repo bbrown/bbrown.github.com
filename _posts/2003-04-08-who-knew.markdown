@@ -1,0 +1,10 @@
+---
+layout: post
+title: Who Knew?
+date: '2003-04-08 07:19:21 -0700'
+mt_id: 145
+blog_id: 1
+post_id: 145
+basename: who-knew
+---
+<br />Who knew <a href="http://www.wibsite.com/wiblog/dull/">dull</a> could be such fun?<br /><br /><br />

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wal-Mart Goodness
+date: '2003-03-18 14:46:02 -0700'
+mt_id: 127
+blog_id: 1
+post_id: 127
+basename: wal-mart-goodness
+---
+<br /><a href="http://www.fortune.com/">Fortune.com</a> has an article about <a href="http://www.walmart.com/">Wal-Mart</a> up entitled <a href="http://www.fortune.com/fortune/print/0,15935,423053,00.html">"One Nation Under Wal-Mart"</a>.<br /><br />I have always admired Wal-Mart for its ruthless application of reason to retail. While other companies used higher margins to fatten their bottom lines, Wal-Mart focused on passing the margins on to its customers and using its dizzying volume to make up the difference. It then negotiated ever-lower prices and streamlined its operations to eliminate every penny of waste it could control. My in-laws once had an opportunity to work with Wal-Mart but decided against it when they saw the terms that Wal-Mart demanded&#x2014;they just couldn't meet them and make a profit.<br /><br />Slowly but surely it has entered new markets and dominated them by sheer force of will:<br /><br /><blockquote><br />Only ten years after launching its food business amid much guffawing, Wal-Mart is the world's biggest grocer, driving down prices an average of 13% in the markets it enters, according to a UBS Warburg study. The effect has been seismic: Kroger has gone on a cost-cutting drive to narrow the price gap, Albertsons has abandoned some markets entirely, and an army of consultants now advise grocers on how to grapple with the 800-pound gorilla. When Wal-Mart moves, it adheres to the Powell doctrine of overwhelming force.<br /></blockquote><br /><br />The article offers a blizzard of statistics to show Wal-Mart's impressive growth and dominance, but I liked its conclusion best for such a demonstration:<br /><br /><blockquote><br />It's more than a little reminiscent of another fledgling republic that became a superpower and discovered to its shock that much of  the world saw it as an imperial bully. Admired and resented, imitated and vilifed, envied and feared: One Nation, Under Wal-Mart.<br /></blockquote><br /><br /><br />

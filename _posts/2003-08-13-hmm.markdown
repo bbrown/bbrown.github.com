@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hmm...
+date: '2003-08-13 08:18:35 -0700'
+mt_id: 441
+blog_id: 1
+post_id: 441
+basename: hmm
+---
+<br />I'm a big fan of Eric Sink's, repeatedly likening him to <a href="http://www.joelonsoftware.com/">Joel Spolsky</a>&#x2014;a pretty positive assessment in my mind.<br /><br />But <a href="http://www.notalegend.com/">this</a> is beyond weird. It strikes me as vain, hype, and self-deprecating all at the same time. I know the value of self-publicizing, especially for a small software company, but this way is a bit much. If it weren't created by him or at his direction, then I probably wouldn't have thought anything of it other than a chuckle.<br /><br />[UPDATE: Hmm, seeing the same design at <a href="http://www.softwarelegends.com/">another site</a> makes me think that this might be more than what it seems. Perhaps it's a parody done by Eric. If that's the case, then it's a good take-off and I applaud it. A quick check of the DNS entries for the two shows one registered to Microsoft and one to <a href="http://www.sourcegear.com/">SourceGear</a>, Eric's company. Okay, so it was a parody. Bravo, then!]<br /><br /><br />

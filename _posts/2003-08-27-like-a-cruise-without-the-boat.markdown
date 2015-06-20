@@ -1,0 +1,10 @@
+---
+layout: post
+title: Like a Cruise without the Boat
+date: '2003-08-27 02:37:49 -0700'
+mt_id: 486
+blog_id: 1
+post_id: 486
+basename: like-a-cruise-without-the-boat
+---
+<br />When the <a href="http://www.developmentor.com/">DevelopMentor</a> guys said that the food in this class was like a cruise, everyone chuckled. I understand why they said that, couple the buffet-style meals and rich food with the sitting on your keister for about 10 hours a day and you've pretty much defined cruising. Only without the walking around the decks and up and down the stairs.<br /><br />In an effort to combat the first day's excessive eating (excessive is probably not strong enough: I <em>porked</em> out), I am exercising self-restraint&#x2014;as much as I can without <a href="/blogs/prego/2003_08_24_weeks.cfm#106191298546387036">my wife's assistance</a>&#x2014;and finishing off my meals with exercise in the hotel's gym. Yesterday I hopped on the treadmill three separate times for about 10-15 minutes and this morning I woke up early and did a more vigorous workout. It feels really good, even though I won't be able to continue doing it when I get back home since the Phoenix heat (even as early as I get up) precludes much outdoor exercise for me.<br /><br />Class has been going along swimmingly; it really feels like I've been here a week and this is the third day of class! Here's what we've covered so far:<ul><li>.NET Architecture</li><li>Managed Type Fundamentals</li><li>Objects, Values, and Memory</li><li>Reflection and Attributes</li><li>Delegates and Events</li><li>Asynchronous Execution (<em>aka</em> Multithreading)</li><li>Assemblies</li></ul><br />That's plenty more than I've had in other week-long courses. While I don't necessarily agree with some of the subject choices or the way they've taught them, I've got to give credit to DevelopMentor for packing in the instruction.<br /><br />Today is Windows Forms, code access security, XML processing, and ADO.NET, which sounds like a jam-packed day. Plus, we're going to Redondo Beach for lunch so we can see the daylight for longer than a break!<br /><br /><br />

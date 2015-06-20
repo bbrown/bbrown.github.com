@@ -1,0 +1,10 @@
+---
+layout: post
+title: UGH!
+date: '2003-06-19 12:34:49 -0700'
+mt_id: 274
+blog_id: 1
+post_id: 274
+basename: ugh
+---
+<br /><a href="http://www.blogger.com/">Blogger</a> doesn't seem to want to publish my Amazing Art Site below in my RSS feed. Stupid Blogger! I was just singing your praises since you enabled a non-<acronym title="Internet Explorer">IE</acronym> version that I could access from <a href="http://www.apple.com/safari/">Safari</a> or <a href="http://www.omnigroup.com/products/omniweb/">OmniWeb</a>. Now you've got to go and screw with my precious RSS feed.<br /><br />It's enough to make a <a href="/gallery/bbrown/">man</a> look at <a href="http://www.camdenfamily.com/morpheus/blog/">other options</a>.<br /><br /><br />

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Blackout
+date: '2003-08-14 09:08:01 -0700'
+mt_id: 445
+blog_id: 1
+post_id: 445
+basename: blackout
+categories:
+- politics
+---
+<br />This sort of blackout has <a href="http://blackout.gmu.edu/">happened before</a>. The electric industry <a href="http://blackout.gmu.edu/perspectives/p_elecutil.html">learned</a> a lot, but apparently not too much. <a href="http://www.slashdot.org/">Slashdot</a>, of course, has some <a href="http://www.slashdot.org/article.pl?sid=03/08/14/2050243&amp;mode=thread&amp;tid=99">great discussion</a> and linkage.<br /><br />I'm inclined to doubt that it is terrorist-related. We'll see.<br /><br />[UPDATE: <a href="http://www.worldnetdaily.com/">WorldNetDaily</a> <a href="http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=34092">confirms</a> that the power outage is most likely not terrorist instigated. Cool.]<br /><br /><br />

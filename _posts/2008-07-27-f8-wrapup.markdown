@@ -1,0 +1,13 @@
+---
+layout: post
+title: F8 Wrapup
+date: '2008-07-27 01:12:35 -0700'
+mt_id: 1315
+blog_id: 1
+post_id: 1315
+basename: f8-wrapup
+categories:
+- observations
+- high-geekery
+---
+<p>Prior to attending F8, I believed that the new Facebook profile redesign was motivated by de-emphasizing third-party applications, making more room for ad space, and enabling more integrated ad placement. It was such a radical change and I was aware of the pathetic CPM of the Facebook ad inventory, so I concluded that this move was about Facebook the business.</p><p>Having been through three sessions and two keynotes, I now think that the changes are truly user-centric. The justifications presented today by very earnest and sincere Facebook developers and designers ring true to me. In case you didn't want to wade through my copious (and possibly inscrutable) notes from the sessions, the basic rationale behind the radical revamp is to emphasize the feed as a social stream and build user trust by limiting and segregating third-party applications.</p><p>They made the excellent point that the current profile easily becomes unwieldy and forbidding after adding just a couple of applications. The tabular nature of the new profile gives the user control over what to emphasize and what to display. The more time I spend with the new profile, the more I like it.</p><p>At the same time, I've been working on the open-source framework <a href="http://www.codeplex.com/FacebookNET/">Facebook.NET</a> in anticipation of the concomitant API changes. At the API level, Facebook has frequently dropped the ball. There are breaking changes, insufficient documentation of other changes, and frequent revisions that aren't discussed unless you happen to notice slight alterations to the documentation. It's truly frustrating due to the flux even though it's supposedly stable and released. I'm hoping that this is the last significant API change for awhile, or, better still, the Facebook platform team realizes the cardinal rule of API design: <i>maintain backwards-compatibility at all costs</i>.</p><p>[UPDATE (7/27/2008): I had written this on the plane coming back from F8 but I forgot to publish it when I got connected back on to the Internet.]</p>

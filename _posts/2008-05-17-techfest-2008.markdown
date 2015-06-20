@@ -1,0 +1,36 @@
+---
+layout: post
+title: TechFest 2008
+date: '2008-05-17 00:07:07 -0700'
+mt_id: 1281
+blog_id: 1
+post_id: 1281
+basename: techfest-2008
+categories:
+- personal
+- go-daddy
+---
+<p>
+Today was <a href="http://www.godaddy.com/">Go Daddy</a>'s first annual TechFest, which brought together all of Go Daddy's IT staff from around the nation for a conference. It was a chance to meet the people you might have only ever dealt with via email, IM, or phone. It was held at <a href="http://www.f1racefactory.com/">F1 Race Factory</a>, which we bought out for the whole day. Events took place in its set of meeting rooms as well as a massive air-conditioned tent set up in the parking lot.
+</p>
+<p>
+The main suite of presentations dealt with the company as a whole: Bob Parsons' candid (and hilarious) biographical sketch and reminiscences of the early days from employees that had been there 5, 9, and 10 years. It is simply astounding how far the company's come from those salad days&#x2014;it's grown significantly in just the three years I've been there. For the first couple years of its existence, all the employees of Go Daddy worked in a house out in Cave Creek. The old-timers regaled us with tales of servers in the laundry room and concrete pillars erected in front of the garage for insurance reasons so that an errant car wouldn't take out the entire development staff!
+</p>
+<p>
+I gave a presentation on unit testing and test-driven development to approximately 37 people. (I say "approximately" because that was the attendance figure I had going into the presentation but I didn't actually do a count during.) It was a version of the one I'd given in March to an internal team but all gussied up. By popular request (of those who didn't attend the talk), here's the <a href="http://www.foundontheweb.org/wp-content/uploads/general/TDD4GDD.swf" rel="nofollow noindex">slide deck</a>. I can put it up because it's entirely meaningless without me flapping my gums up there for an hour.
+</p>
+<p>
+The set up surrounding the presentation was one disaster after another. I couldn't find my VPN card so I couldn't do a demo using a live connection. Then I made a screencast version of the demo, but the software I used for Windows could only export to a SWF. That meant that I had to open it up in a browser and use the context menu controls of the Flash plugin to navigate the video. My room was designed for 20-25 and didn't have a built-in projector system, which further limited the available seating. I overcame each of these obstacles in turn because I allowed plenty of time to sweat out the details. I can't emphasize enough the need to really explore your presentation environment before your talk; if I had relied on the previous night's once-over, I would've chewed through valuable talk time fretting little hurdles as they arose.
+</p>
+<p>
+I think the presentation went swimmingly! My boss came in for moral support but left rather quickly when he realized that I had it well under control. I was joking, I was animated, I was lively. I'm really happy with my decision to use rather spartan slides: it prevented me from just reading off them, eliminated reading ahead, and kept the audience guessing as to the images' significance. Further, the audience asked technical, methodological, and insightful questions during the Q&amp;A. That told me that they were engaged with the material, which is exactly what a presenter dreams of. And quite a few stayed 15-20 minutes past my allotted time to go into more detail!
+</p>
+<p>
+The event closed with Merlin Mann's presentation of Inbox Zero, which was amazing, and then the traditional overdoing of the prizes. I've been doing Inbox Zero for years but I found myself rapt due to his easygoing and quietly-hilarious style. It was worthwhile just to watch his presentation style; I think he made a big impact on the Go Daddy crowd.
+</p>
+<p>
+Next year's can't come soon enough!
+</p>
+<p style="font-size:xx-small;">
+[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]
+</p>

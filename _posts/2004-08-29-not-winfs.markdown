@@ -1,0 +1,12 @@
+---
+layout: post
+title: Not WinFS
+date: '2004-08-29 14:18:15 -0700'
+mt_id: 799
+blog_id: 1
+post_id: 799
+basename: not-winfs
+categories:
+- google
+---
+<br />So there's not going to be WinFS. The newest in new filesystems&#x2014;even though WinFS wasn't really an FS&#x2014;has to be <a href="http://richard.jones.name/google-hacks/gmail-filesystem/gmail-filesystem.html">GmailFS</a>. Astute readers out there are probably scratching their heads because they know that <a href="http://gmail.google.com/">Gmail</a> is Google's new email service that still isn't available to the public.<br /><br />This wonderful little filesystem runs on Linux only and allows you to use your Gmail email storage just like you might use your normal filesystem. I guess it's rather limited because your operating system and all of your programs must fit within the confines of your one gigabyte limit. If you can live with that, then you can have a great operating system that absolutely requires an Internet connection to start and run.<br /><br />Okay, so it's just a cool hack that is totally useless and will probably be thwarted as soon as Google finds out about it (which it probably already has given that Google knows all).<br /><br /><br />

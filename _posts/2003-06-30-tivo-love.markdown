@@ -1,0 +1,10 @@
+---
+layout: post
+title: TiVO Love
+date: '2003-06-30 10:01:35 -0700'
+mt_id: 299
+blog_id: 1
+post_id: 299
+basename: tivo-love
+---
+<br />This <a href="http://www.businessweek.com/technology/content/jun2003/tc20030627_1133_tc119.htm">article</a> in <a href="http://www.businessweek.com/"><cite>Business Week</cite></a> suggests that advertising agencies aren't feeling the love for <a href="http://www.tivo/">TiVO</a> right now.<br /><br /><blockquote>TiVo can also pinpoint where and when ads are watched the most. For example, a commercial for breakfast cereal might be skipped through less often in the morning on the West Coast than during pricey prime-time slots in the East. "This is the beginning of the end of that drunken orgy of dollars spent on broadcast TV as the ultimate 'reach' vehicle," says Tim Hanlon, vice-president for emerging contacts at Starcom MediaVest, an ad agency that helped TiVo design its new service.</blockquote><br /><br />The article also indicates that TiVO has discovered that ratings are an inverse indicator of ad viewing. In other words, the more popular the show, the more likely a TiVO viewer is to fast-forward through the commercials. This sort of information is absolutely great for those buying advertising, but horrifying to the networks and agencies.<br /><br />I, however, am completely unshaken in my <a href="http://www.hitormiss.org/tivo/">TiVO love</a>.<br /><br /><br />

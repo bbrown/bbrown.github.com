@@ -1,0 +1,10 @@
+---
+layout: post
+title: Words etc.
+date: '2003-04-25 15:08:53 -0700'
+mt_id: 167
+blog_id: 1
+post_id: 167
+basename: words-etc
+---
+<br />I'm a big fan of <a href="http://www.logophilia.com/WordSpy/">words</a>, especially <a href="/values/things/nouns.cfm">nouns</a>, and I am fascinated by the ways in which the English language evolves. It's said that there are <a href="http://www.yourdictionary.com/library/drlang004.html">over 600,000 words in English</a> and that the biggest lexical machine is science. I think technology coins a number of neologisms as well and that's the field with which I'm most familiar.<br /><br />I stumbled today on some new jargon from <a href="http://www.veen.com/jeff/">Jeffrey Veen</a> on the subject of <a href="http://www.veen.com/jeff/archives/000110.html">information architecture</a>&#x2014;I especially like "boil the ocean." Way back when, I used to eagerly wait for the new issue of <a href="http://www.wired.com/">Wired</a> so that I could check out Gareth Branwyn's <a href="http://www.xmission.com/~dtubbs/jargon/jw.html">Jargon Watch</a> <a href="http://www.wired.com/wired/archive/6.11/streetcred.html?pg=11">column</a>, highlighting the hippest <a href="http://www.tbtf.com/jargon-scout.html">jargon</a>.<br /><br />They're so descriptive and apt, yet oh so ephemeral. In fact, I'd say that&#x2014;by and large&#x2014;not a single one chronicled by Branwyn ever outlasted the dot-com boom. Hip, fresh, and clever, they harken back to a completely different era&#x2014;the heady times of the Web becoming mainstream. It's good to see that tech people are still coining.<br /><br /><br />

@@ -1,0 +1,61 @@
+---
+layout: post
+title: Postbox AppleScript to Create Message
+date: '2012-12-14 08:53:51 -0700'
+mt_id: 1500
+blog_id: 1
+post_id: 1500
+basename: postbox-applescript-to-create-message
+categories:
+- high-geekery
+- mac-os-x
+---
+<p>
+Every morning at work we have a standup meeting on the phone where we take turns talking about what we did yesterday and what we're going to do today. It's a common type of meeting and takes about 5-10 minutes if no issues come up and 15-30 if some do.
+</p>
+<p>
+As the meeting coordinator, I type up the meeting minutes and send it out to the group immediately following. Every day I would create a new message, type in the standard format, and randomly list the order for people to participate. After months and months, it dawned on me that this is a case for <em>automation</em>!
+</p>
+<p>
+(As an aside, my mail client of choice is the cross-platform <a href="http://www.postbox-inc.com/" title="Well worth it.">Postbox</a>. It's built on top of <a href="http://www.mozilla.org/en-US/thunderbird/">Thunderbird</a> but more native and with better usability. I highly recommend it!)
+</p>
+<p>
+Here's the AppleScript I came up with&mdash;it works like a champ and I have it hooked into <a href="http://www.alfredapp.com/" title="The best successor to the Quicksilver project of yore">Alfred</a> so that I can summon the email with a few keystrokes:
+</p>
+<code><pre>
+-- Get a randomized list of employees
+set employees to {"Michael", "GOB", "Buster", "Kitty", "Lindsay"}
+set employeeCount to count of employees
+set ordered to {}
+repeat
+	if (count of ordered) is equal to employeeCount then
+		exit repeat
+	end if
+	set employee to some item of employees
+	if ordered does not contain employee then
+		set end of ordered to employee
+	end if
+end repeat
+
+-- Set up message details
+set standupSubject to "TEEM Standup Notes (" & (do shell script "date '+%m/%d/%Y'") & ")"
+set standupRecipients to "teem@example.com"
+set standupEmployeeList to ""
+repeat with currentEmployee in ordered
+	set standupEmployeeList to standupEmployeeList & currentEmployee & ": " & "
+
+"
+end repeat
+set standupBody to "Duration: 
+
+" & standupEmployeeList
+
+-- Create standup notes email
+tell application "Postbox"
+	send message subject standupSubject recipient standupRecipients body standupBody
+	activate
+end tell
+</pre></code>
+<p>
+I checked and the AppleScript library for Mail.app is pretty similar. I'll leave that as an exercise for you, the reader.
+</p>

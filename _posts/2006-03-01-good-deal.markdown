@@ -1,0 +1,16 @@
+---
+layout: post
+title: Good Deal
+date: '2006-03-01 23:32:00 -0700'
+mt_id: 1090
+blog_id: 1
+post_id: 1090
+basename: good-deal
+categories:
+- travel
+---
+<p>The worst part about travelling for me is the renting of hotel rooms. I abhor it mainly because I know exactly how variable the rates are. It's always made sense to me that room rates should vary with the peak travel season or amenities, but the rest of it seems completely arbitrary and designed to extract the most money possible. Not that there's anything wrong with that, but I always feel like I'm the rube who's paying through the nose so those-in-the-know can stay in the same hotel for $9 a night.</p>
+<p>I've used <a href="http://www.priceline.com/">Priceline</a> in the past and it always impressed me with its appealing slogan&#x2014;"Name your own price"&#x2014;that did not match the reality of the site at all. I tried to name my own price and gradually came to realize that my expectations of price naming were not in sync with any hotelier's. When coupled with the site's bizarre feature that you couldn't name your own price for the same hotel twice, I gave up and went back to my rube-dom.</p>
+<p>That all ended tonight. We're travelling to the Fillmore/Santa Clarita/Valencia area at the end of March for a get-together with some of my wife's Internet friends and so we needed to get some accomodations. My wife was able to find a room at the Holiday Inn for $136 per night. This is in March, mind you, and we're talking about the Holiday Inn. I believe I paid less for that at a Marriott or Hyatt in Manhattan Beach in September. My sucker alarms were going off full blast.</p>
+<p><a href="http://lisashouse.typepad.com/">Her friend on the scene</a> recommended the <a href="http://valencia.hyatt.com/hyatt/hotels/index.jsp">Hyatt Valencia</a> as the place to stay. She said it was an incredible hotel, but that it was pricey. We saw a rate of $186 per night quoted elsewhere and thought that that was <cite>tr&#xE8;s ch&#xE9;r&#xE8;</cite>. Priceline, as usual, disappointed so I decided to give <a href="http://www.hotwire.com/">Hotwire</a> a whirl and see what I could come up with. They won't tell you what hotel you're staying at until you've already paid, which is kind of snarky to my way of thinking, but they did say it was 3&#xBD; stars and regularly $186.50 per night. I figured that there couldn't be that many hotels in Valencia, California with those exact same stats. At the quoted $103 per night, I also decided that we could do a lot worse.</p>
+<p>You've probably guessed that the hotel in question was the Hyatt and you would be right. Not only did I get a great rate but I broke my string of bad hotel-booking luck. I'd rent a car, but I don't feel that daring.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: OmniWeb
+date: '2003-10-26 12:53:40 -0700'
+mt_id: 603
+blog_id: 1
+post_id: 603
+basename: omniweb
+---
+<br />Does anyone know if <a href="http://www.omnigroup.com/applications/omniweb/">OmniWeb</a> has a feature, preference, or option to prompt before quitting? I've inadvertently pressed CMD-Q a few too many times, thinking I was in a different application than OmniWeb, resulting in the loss of whatever sites I was browsing. No big deal thanks to OmniWeb's excellent history drawer, but it gets really maddening when I'm working on a blog entry.<br /><br />I just want to know before I shoot off yet another email to OmniGroup suggesting a feature that has already been implemented.<br /><br /><br />

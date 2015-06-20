@@ -1,0 +1,10 @@
+---
+layout: post
+title: Weirdness
+date: '2003-06-22 23:50:55 -0700'
+mt_id: 282
+blog_id: 1
+post_id: 282
+basename: weirdness-2
+---
+<br />This morning I had a dream that I was reading <a href="http://www.tesugen.com/">Tesugen</a>, Peter Lindberg's cogent and pregnant blog. Specifically, there was an entry about artificial intelligence and how modern software emulates thinking to such a degree that perhaps we should call it thinking. You know, a rose is a rose is a rose.<br /><br />As if that wasn't strange enough, I then started to dream about a reply blog entry here. I mean I was even dreaming about doing a &lt;a&gt; tags and everything. I woke up and was a little creeped out, so naturally I come over to my office and blog about it.<br /><br />Incidentally, dream Peter, I think that appearances are superficial. It can emulate a process of thought, but that doesn't make it the activity. Only when the activity matches the essence of thought can we say that it is thinking. Software can embed a process of thought, but it can't diverge from that process without programming another process in there. What is the essence of thought? Unfortunately, I woke up as I was getting to that. If I had to say, I would go back to Ayn Rand's <a href="http://www.amazon.com/exec/obidos/ASIN/0452010306/bbrown-20/ref=nosim/" title="Amazon link">theory of epistemology</a> but unfortunately that stops at concept-formation and doesn't delve into the meat of adult thinking&#x2014;<em>i.e.</em>, how we use those concepts to make decisions, process new inputs, or form conclusions.<br /><br /><br />

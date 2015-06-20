@@ -1,0 +1,10 @@
+---
+layout: post
+title: Work Stuff
+date: '2003-05-13 12:08:49 -0700'
+mt_id: 203
+blog_id: 1
+post_id: 203
+basename: work-stuff
+---
+<br />Today, my co-worker and I received our finalized itinerary for our impending trip to Portland (Hillsboro actually) for some training. I haven't really mentioned it because, though we knew we were going last month&#x2014;maybe even earlier&#x2014;we didn't have any details. In fact, the date flip-flopped around a bit.<br /><br />We're going to our <a href="http://www.corillian.com/">online banking product vendor</a> for some training on the latest version of their flagship product, <a href="http://www.corillian.com/products/efinance_new.asp">Voyager</a>. Yes, we <a href="http://www.corillian.com/news/XcNewsPlus.asp?cmd=view&amp;articleid=187">bought it awhile ago</a>, but we're just now getting ready to start development. It's going to be a huge project and I ask for your forgiveness in advance if blogging gets spotty.<br /><br />The good news is that we're flying to <a href="http://www.portlandairportpdx.com/web_pop/PDXHOME.htm">Portland</a> via <a href="http://www.americawest.com/">America West</a> <em>in first class</em>. Oh yeah! Bill Brown is living large on the <a href="http://www.desertschools.org/">company</a> dime! What's more, I called the <a href="http://www.hotels.travelmall.com/cgi-bin/pg_hoteldetails.pl?Code=CY%3BPDXHS">hotel</a> where we'll be staying and they've got high-speed Internet access in every room; I'll be bringing my trusty sidekick Thor along and plan to make use of the time to get the <acronym title="Bill Brown Information Center">BBIC</acronym> cleaned up a bit.<br /><br />I also plan to see the Portland <a href="http://www.parks.ci.portland.or.us/Parks/RoseGardens.htm">Rose</a> <a href="http://www.parks.ci.portland.or.us/Parks/IntRoseTestGarden.htm">Gardens</a> and <a href="http://www.japanesegarden.com/" title="Great job on the domain, by the way!">Japanese Garden</a>, taking pictures aplenty. No one can accuse me of not stopping to smell the roses!<br /><br /><br />

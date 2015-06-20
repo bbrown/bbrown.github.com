@@ -1,0 +1,14 @@
+---
+layout: post
+title: Plus One
+date: '2006-03-13 13:31:00 -0700'
+mt_id: 1092
+blog_id: 1
+post_id: 1092
+basename: plus-one
+categories:
+- go-daddy
+---
+<p>The absence of Dave certainly didn't last too long! We're moving <a href="http://www.danesparza.us/">Dan Esparza</a> over from our <a href="http://www.godaddy.com/gdshop/hosting/hosting_build_website.asp">WebSite Tonight</a> team and I couldn't be happier. Well, strike that, I could be happier if I knew him beyond cursory salutations. But I am happy because he's a blogger and a fairly advanced WordPress user, which means that he'll have a lot of fresh ideas for Quick Blog.</p>
+<p>He moves into the office next week into the crummy desk since Greg is moving over to Dave's lordly setting. I'm keeping my window view because I just love staring at cars. (Well, and the occasional stupid pigeon that thinks the window barrier isn't there.)</p>
+<p style="font-size:xx-small;">[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]</p>

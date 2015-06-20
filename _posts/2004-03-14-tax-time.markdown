@@ -1,0 +1,13 @@
+---
+layout: post
+title: Tax Time
+date: '2004-03-14 12:18:57 -0700'
+mt_id: 707
+blog_id: 1
+post_id: 707
+basename: tax-time
+categories:
+- observations
+- business
+---
+<br />Phew! Got my defunct corporation's income taxes done today since they're due tomorrow. After doing them, I was amazed at how much easier they were than my personal income taxes. I literally spent four or five hours completing them.<br /><br />Reasons for this:<ol><li>The business made about $17,000 last year. That's not the public, uncooked books figure&#x2014;that's the actual total. It's a wonder we were able to stay open as long as we did.</li><li>QuickBooks has a report that is pretty much geared towards filling out the 1120.</li><li>If I had any questions, I just looked at the previous year's completed form.</li><li>Since it's the, umm, fourth year of losses, I really refrained from being aggressive about claiming deductions. Let's just say that we can't get audited. It's not that I took fraudulent deductions or anything; it's just that I don't exactly have the receipts for much of what I took&#x2014;or I might have the receipts (since we kept most of them), but I wouldn't know where to find them.</li></ol><br />Again, I reflect on the lessons learned from this entrepreneurial experience:<ul><li>Retail sucks. Don't do retail. Okay, do it if you've got a great product you're selling, an excellent location, and sufficient capital to get the word out. We had the first, but none of the others.</li><li>Employees are a necessary evil. We had one employee, several under-the-table workers, and four volunteers (us, unfortunately). When business is good, an employee is invaluable because they extend your reach. When business starts going south, they're a huge drain on resources because paying them involves paying others to pay them. We paid a company 2/3 of the sum we paid to our employee to handle our payroll processing and employee taxes. And we got very little in return.</li><li>The best type of business is one where other people are dealing with the fickle nature of the buying public. Wholesale businesses, so long as the sector is big enough, have an enormous advantage over retail. We had a clientele but expanding that clientele required a lot of effort and money because the potential market is so huge. The people we bought from only had to know about the twenty or so stores that sold pottery and market to them. If they wanted to expand their businesses, they could go to other types of retail stores and encourage them to move into retailing pottery as well or even start marketing nationally. We had to canvass neighborhoods, put fliers on cars, develop a kick-butt web site, and other heavy-effort, uncertain-result endeavors.</li></ul><br /><br /><br />

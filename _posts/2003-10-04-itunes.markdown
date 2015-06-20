@@ -1,0 +1,10 @@
+---
+layout: post
+title: iTunes
+date: '2003-10-04 09:46:02 -0700'
+mt_id: 564
+blog_id: 1
+post_id: 564
+basename: itunes
+---
+<br />I don't normally link to blog entries, but this one about <a href="http://www.superdeluxo.com/blog_archives/2003/09/27/itunes_usage_methods.html">different iTunes usage styles</a> is incredible. I had no idea about all of the interesting ways in which iTunes could be used and configured. The one that I really liked was setting up keywords in the comments tag so that you can create smart playlists off of that keyword. Actually, the suggestion was to use your ratings to indicate that but I use my ratings to indicate my opinion of the music and I don't want to screw that up.<br /><br />Reviewing some of the other posts on the site leads me to add this site to my <a href="http://www.fondantfancies.com/shrook/">RSS aggregator of choice</a>. <cite>[via <a href="http://www.kottke.org/">kottke</a>]</cite><br /><br /><br />

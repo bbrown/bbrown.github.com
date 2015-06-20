@@ -1,0 +1,10 @@
+---
+layout: post
+title: WebForms
+date: '2003-08-29 08:15:59 -0700'
+mt_id: 491
+blog_id: 1
+post_id: 491
+basename: webforms
+---
+<br />Speaking of WebForms, they blow. I figured that the company that produced the major disaster known as FrontPage and Word would create a WebForms that was both not bloated and not convoluted. Surprise, surprise: the implementation is both. The alternate way of talking about WebForms that I've seen&#x2014;server-side controls&#x2014;is indicative of the oddity that it is. Controls are quite the client-side technology and any implementation of controls on the server is wrongheaded. Except that controls aren't actually implemented on the server, the references to the server-side controls are <em>transformed</em> on the server into client-side representations.<br /><br />So a call like this <code>&lt;input type="button" id="_buttonPush" value="Push Me" runat="server" /&gt;</code> gets wired to an event handler in the class file or in the code-behind file that gets fired when the button is pushed. Oh, sounds like Flash, right? That's pretty cool. No, it actually fires off a <code>POST</code> that is automatically interpreted by the ASP.NET receiver, which is always the same page incidentally unless you're willing to go through some serious gyrations, and routed to the event handler you've declared and linked. This is all done to get some fairly marginal benefits, as far as I can tell. It's very much like <code>&lt;cfform&gt;</code> in this respect since both get you form validation and event handling through weird concoctions of Javascript interpreted on the server side by ASP.NET or ColdFusion.<br /><br />Frankly, I'd rather write my own code to handle form submissions and I will continue to believe that until I find some unobtainable-otherwise value. I don't expect that I'll find any, but I'm going to keep my eyes open. I never found any value to <code>&lt;cfform&gt;</code>, but that's just me.<br /><br /><br />

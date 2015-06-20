@@ -1,0 +1,10 @@
+---
+layout: post
+title: Dang!
+date: '2003-05-20 03:02:12 -0700'
+mt_id: 216
+blog_id: 1
+post_id: 216
+basename: dang
+---
+<br />Just when I get excited about <a href="http://java.sun.com/">Java</a> again, <a href="http://www.x180.net/" title="O'Reilly author">James Duncan Davidson</a> <a href="http://www.x180.net/blog/Conferences/MacHack03/PresentationAccepted.html">rekindles</a> my interest in <a href="http://developer.apple.com/techpubs/macosx/Cocoa/ObjectiveC/">Objective-C</a>.<br /><br />I think I'm just going to stick with Java and move to Objective-C once I've got my bearings right. Can't hurt, right?<br /><br /><br />

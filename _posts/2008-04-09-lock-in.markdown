@@ -1,0 +1,22 @@
+---
+layout: post
+title: Lock-In
+date: '2008-04-09 14:36:00 -0700'
+mt_id: 1274
+blog_id: 1
+post_id: 1274
+basename: lock-in
+categories:
+- web-tech
+- google
+- observations
+---
+<p>
+Google recently announced its <a href="http://code.google.com/appengine/">AppEngine</a> initiative and I can't say I get who would want it. It strikes me as too inextricable from Google.
+</p>
+<p>
+<a href="http://aws.amazon.com/">Amazon Web Services</a> operates in a similar fashion but it is clearly serving as an infrastructure provider rather than a platform. While it'd be hard to migrate off of AWS if you ever chose to do that, it's not as if you're promoting Amazon by virtue of creating and running your application. At every turn, the AppEngine application uses Google products like Google Checkout and Google Accounts. Building a business so closely associated with the largest Internet company in the world strikes me as perilous.
+</p>
+<p>
+AppEngine aspires to be a platform like Facebook has become. But it lacks the social aspects that make Facebook so attractive as an application platform. So, ultimately, I think AppEngine's main competitor is not Amazon, Facebook, or even Microsoft (which has its own cloud initiative in development) but <a href="http://www.ning.com/">Ning</a>. Who's Ning? Exactly. I just don't see this market as compelling so I don't understand why Google's entered it.
+</p>

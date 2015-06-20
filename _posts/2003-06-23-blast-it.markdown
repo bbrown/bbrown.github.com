@@ -1,0 +1,10 @@
+---
+layout: post
+title: Blast It
+date: '2003-06-23 04:00:21 -0700'
+mt_id: 284
+blog_id: 1
+post_id: 284
+basename: blast-it
+---
+<br />Stupid illness. I'm going to be watching the keynote via ASCII stream&#x2014;heheh. I've got coverage from <a href="http://www.macminute.com/wwdc2003.html">MacMinute</a>, <a href="http://www.chaosmint.com/">MacRumors</a>, and <a href="http://wwdc.macnn.com/">MacNN</a>. Between the three, I should probably get a good feel for what's going on.<br /><br />Later, natch, I will watch the keynote through <a href="http://www.apple.com/quicktime/">QuickTime</a> stream. There's nothing like seeing His Steveness in the flesh.<br /><br /><br />

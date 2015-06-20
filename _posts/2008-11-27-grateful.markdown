@@ -1,0 +1,34 @@
+---
+layout: post
+title: Grateful
+date: '2008-11-27 13:13:29 -0700'
+mt_id: 1402
+blog_id: 1
+post_id: 1402
+basename: grateful
+categories:
+- personal
+---
+<p id="grateful-intro">
+I have much to be thankful for this year. Honestly, every year of my adult life has been great even with the ups and downs. My wife and I work very hard at living consciously and deliberately, so I feel like I've really earned whatever success and pleasantness I've experienced. Here's a smattering:
+</p>
+<ul>
+<li id="grateful-wife">
+My wife: I wouldn't be the man I am today if I had never met her. I feel so fortunate that we have such a strong relationship after 15 years of marriage, but it doesn't surprise me since I have so much admiration for her.
+</li>
+<li id="grateful-daughters">
+My girls: my three daughters (5, 5, 3) are the biggest joy in my life. They're rambunctious, contentious, and mischievous but mostly they're just marvelous. I think I'm a better man for having them.
+</li>
+<li id="grateful-son">
+My son: we're three days away from the journey to pick him up from Ethiopia. That will be the culmination of over a year of effort, paying through the nose, and complying with maddening bureaucracies. He will complete our family and I just can't wait to meet him.
+</li>
+<li id="grateful-godaddy">
+My job: Go Daddy is a great employer. The benefits and pay are outstanding. I've been fortunate to have challenging and interesting work. My team is reliable, competent, and nimble. I'm taking a month off to be with my new son and had to move my plans up a week with only two days notice, but my boss was fine with it (much more than I was) and expressed excitement at my upcoming adventure. I plan to stay there as long as they'll have me.
+</li>
+<li id="grateful-larry">
+My friend Larry: he lives in San Diego and I don't talk to him nearly enough, but whenever we do it feels exciting and refreshing. He's also the smartest guy I know—besides myself, ahem. We see him several times a year and the kids adore him.
+</li>
+</ul>
+<p id="grateful-conclusion">
+I was going to list my iPod, my MacBook, and my MINI Cooper but their importance in my life is different in kind from the items listed above. They're great and all but their absence wouldn't leave a void in my life.
+</p>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Directly
+date: '2005-08-17 15:12:54 -0700'
+mt_id: 990
+blog_id: 1
+post_id: 990
+basename: directly
+categories:
+- high-geekery
+---
+<br />As a big-time <a href="http://del.icio.us/">del.icio.us</a> fan, I can't believe I didn't start using <a href="http://johnvey.com/features/deliciousdirector/">Delicious Director</a> when I first saw it a month ago. It's a different kind of front-end to del.icio.us based wholly in Javascript. I know that all of its functionality is available through URL hacking, but Director is designed, which makes it much more valuable.<br /><br /><br />

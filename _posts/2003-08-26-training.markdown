@@ -1,0 +1,10 @@
+---
+layout: post
+title: Training
+date: '2003-08-26 02:54:42 -0700'
+mt_id: 484
+blog_id: 1
+post_id: 484
+basename: training
+---
+<br />I'll admit that I thought the 9 to 9 schedule of the training was a gimmick and wouldn't actually transpire. Happily, it wasn't and it does. We worked until 8:45 p.m. last night and then were on our own to complete the lab and the challenge, neither of which I did because they were about garbage collection and I firmly believe that you should leave that which is the garbage collector's to the garbage collector. I don't want to know how it works: I want to know <em>that</em> it works. From the sounds of it, it works very well&#x2014;though it seems a little more intrusive than Java's garbage collector.<br /><br />The class is arranged around a series of PowerPoint-based presentations. Thankfully, they use PowerPoint as an adjunct to the class even though there's bullet points aplenty. Overall, I think the class is going to be very useful.<br /><br /><br />

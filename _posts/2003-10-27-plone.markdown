@@ -1,0 +1,12 @@
+---
+layout: post
+title: Plone
+date: '2003-10-27 01:21:00 -0700'
+mt_id: 607
+blog_id: 1
+post_id: 607
+basename: plone
+categories:
+- future-reference
+---
+<br />For future reference: <a href="http://plone.org/events/conferences/1/archive">Plone Conference Archives</a>. Plone is built on top of Zope and Zope is a free, open-source content management system.<br /><br /><br />

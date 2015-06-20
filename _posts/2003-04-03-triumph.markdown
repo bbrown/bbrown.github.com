@@ -1,0 +1,10 @@
+---
+layout: post
+title: Triumph
+date: '2003-04-03 12:05:35 -0700'
+mt_id: 137
+blog_id: 1
+post_id: 137
+basename: triumph
+---
+<br /><img src="/images/blog/yahtzee.jpg" width="300" height="225" alt="511 score on Yahtzee handheld game" style="float:right;padding:10px;" /><br />It took a long time, but I've finally dethroned the <a href="/values/people/sandibrown.cfm">Yahtzee handheld queen</a> from her long reign.<br /><br />Since "accidents" happen and batteries get unplugged, I'm documenting this feat for posterity&#x2014;on the Web no less, heh&#x2014;with the picture to the right.<br /><br /><br />

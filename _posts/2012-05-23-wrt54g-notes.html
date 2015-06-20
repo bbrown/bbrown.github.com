@@ -1,0 +1,37 @@
+---
+layout: post
+title: WRT54G Notes
+date: '2012-05-23 22:06:41 -0700'
+mt_id: 1495
+blog_id: 1
+post_id: 1495
+basename: wrt54g-notes
+categories:
+- high-geekery
+---
+<p>
+I'm having some trouble with my <a href="http://homesupport.cisco.com/en-us/wireless/lbc/WRT54G" title="Best $69 I've ever spent!">Linksys WRT-54G router</a>. It's a very old router&mdash;I think I bought it at least eight years ago. Basically, my wife is complaining that our Macs suddenly lose the signal and she has to turn Airport off and then on. Sometimes she even has to restart the router itself.
+</p>
+<p>
+I've searched Apple's support forums thoroughly and tried everything recommended there. Given that this happens on Snow Leopard and Lion, on an iMac and a MacBook, and even on her iPhone, I'm leaning towards the router being the problem.
+</p>
+<p>
+This is going to be an ongoing blog entry covering my efforts to resolve the issue. I'm going to tweak one setting at a time and see if it has any effect.
+</p>
+<ol>
+<li>Upgraded the firmware version to v4.21.5</li>
+<li>Disabled Lazy WDS since I'm not doing any mesh networking.</li>
+<li>Increased the <a href="http://www.dd-wrt.com/wiki/index.php/Advanced_wireless_settings#Beacon_Interval">beacon interval</a> to 500 from 100 milliseconds. My thinking is that I can live with a longer delay in establishing a connection if it reduces network traffic.</li>
+</ol>
+<p>
+Some of you are probably thinking: a) just buy a new freaking router already and b) why not just throw <a href="http://www.dd-wrt.com/" title="The big kahuna in revisions to Linksys's open-sourced firmware.">DD-WRT</a> or <a href="http://www.polarcloud.com/tomato" title="Site looks a little dodgy but it comes recommended and there's graphs!">Tomato</a> on already and be done with it. Points taken, but home networking isn't my thing. I'm afraid that I won't set it up correctly, resulting in an inability to connect to work's VPN or general hassle with all the connected devices.
+</p>
+<p>
+I'm not ruling out either of those as the eventual result but for now I'm going to tweak.
+</p>
+<p>
+[UPDATE (5/26/2012): Argh, still having the same problems. After pondering the issue more, I concluded that it has to be related to OS X Lion. My MacBook Pro is still on Snow Leopard and it can stay hooked up to VPN over wireless for hours and hours. The troubles seem isolated to our MacBook and iMac, which are both on Lion. So I just deleted <code>com.apple.alf.plist</code> as recommended <a href="www.ilounge.com/index.php/backstage/comments/os-x-lion-serious-wi-fi-disconnect-problems-for-macs-and-solutions/" title="There's a lot of woo on the Web around this issue. Zap PRAM? Why not rebuild permissions while you're at it?">here</a> and removed my network passwords from the system Keychain as recommended <a href="http://support.apple.com/kb/HT4628" title="Apple, setting the standards of vague and unhelpful documentation.">by Apple</a>.]
+</p>
+<p>
+[UPDATE (5/29/2012): Trying <a href="https://discussions.apple.com/message/18500327#18500327" title="Desperation has taken hold now.">this tip</a> after the problem re-surfaced yet again.]
+</p>

@@ -1,0 +1,20 @@
+---
+layout: post
+title: No E
+date: '2006-11-08 08:01:00 -0700'
+mt_id: 1159
+blog_id: 1
+post_id: 1159
+basename: no-e
+categories:
+- blogging-world
+---
+<p>
+<a href="http://www.blogmailr.com/" rel="nofollow">That's it?</a>
+</p>
+<p>
+<a href="http://weblogs.asp.net/rhoward/archive/2006/10/31/Seven-days-from-now.aspx">Gets easier?</a> <a href="http://weblogs.asp.net/rhoward/archive/2006/10/26/Super_2D00_duper-top_2D00_secret.aspx">Super duper top secret?</a> Talk about hype. I can remember when this was a super cool brand new feature. Let's see, it was Blogger circa 2000. The only newness I've found here is the email-MetaWeblog transition, but why not just use the existing MetaWeblog implementation or the existing entry by email functionality?
+</p>
+<p>
+Oh, those ways don't <a href="http://www.blogmailr.com/faq/" rel="nofollow">append</a> "Published with BlogMailr" to every entry. I understand completely now.
+</p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Favicons
+date: '2004-08-15 06:40:01 -0700'
+mt_id: 787
+blog_id: 1
+post_id: 787
+basename: favicons
+categories:
+- web-tech
+- future-reference
+---
+<br /><a href="http://www.chami.com/html-kit/services/favicon/">Favicon from Picture</a>: for my future reference. {<a href="http://del.icio.us/url/31c135e12a13ad794417f9213217b512">via</a>}<br /><br /><br />

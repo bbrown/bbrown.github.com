@@ -1,0 +1,10 @@
+---
+layout: post
+title: Watched U-571 last night. For
+date: '2002-08-08 03:52:29 -0700'
+mt_id: 5
+blog_id: 1
+post_id: 5
+basename: watched-u-571-last-night-for
+---
+<br />Watched <cite>U-571</cite> last night. For some reason, I've been watching a lot of war movies lately&#x2014;<cite>Das Boot</cite>, <cite>Crimson Tide</cite>, and <cite>The Caine Mutiny</cite> most recently. I think it's because I've wanted to watch realistic action flicks, and war movies provide such action and are generally quite realistic. Movies like <cite>Die Hard</cite> or anything with Arnold Schwarzenegger are realistic in the sense that the situations are possible, but they're not realistic in the sense that they're terribly unlikely to ever happen.<br /><br />I liked <cite>U-571</cite>. I'm not a big fan of Matthew McConaughey and I can't stand Bill Paxton, but the action was powerful and the quality was compelling. Like <cite>Das Boot</cite>, the director captured the feeling of being hundreds of feet underwater with a thin membrane of steel protecting you from the enormous water pressure as depth charges explode ever closer. I can completely understand why submariners served short stints and frequently left the service. Their courage and fortitude is (and was) amazing. In fact, I almost was a submariner myself&#x2014;my vision defects earned me a "permanent medical rejection" instead.<br /><br />I am curious, though, about the accuracy of the story itself. It purports to tell the story of an actual event, but it's hard to believe that a submarine crew would be dispatched to steal an Enigma machine in 1944 when, if memory serves, Great Britain had broken the Enigma code years before and the Battle of the Atlantic was all but lost. I may be wrong about the timing of the story; if it were 1941 instead of 1944, then it would make sense. But the characters in the movie were all US Navy personnel and we weren't participating in the Battle of the Atlantic in 1941, so I have to think that it took place in 1944. Maybe I'll look further into it one of these days. Uh huh, add that one to the list. *ahem*<br /><br /><br />

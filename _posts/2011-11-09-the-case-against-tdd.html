@@ -1,0 +1,26 @@
+---
+layout: post
+title: The Case Against TDD
+date: '2011-11-09 15:23:05 -0700'
+mt_id: 1470
+blog_id: 1
+post_id: 1470
+basename: the-case-against-tdd
+categories:
+- programming
+---
+<p>
+I have been following TDD since the days of extreme programming, as I am always interested in better ways of doing software development. At first blush, test-driven development sounds like manna from heaven: it embraces YAGNI as a guiding principle and focuses on comprehensive unit testing.
+</p>
+<p>
+Far too much development is anticipatory, with overengineering the usual result. Faced with huge, complicated code bases (or the prospect of them when commencing a new project) it is tempting to order TDD as a check against that temptation. In my experience, though, the overengineering mindset does not go away under TDD&mdash;it just transforms into a zealotry towards code coverage.
+</p>
+<p>
+And that is my biggest gripe with TDD: creating unit tests feels like development and looks like development but it isn't development. It is very easy to get into the business of producing unit tests rather than releasing product. (I say this as someone who presented a class on unit testing at a company conference in 2008. I did a pragmatic style of TDD for approximately 2 years around that presentation.)
+</p>
+<p>
+Assuming then that you can rein in that tendency to strive for 100% code coverage, the next biggest problem with TDD is that the biggest part of an application lives on the client&mdash;mostly outside the reach of the xUnit systems. Obviously there are ways to attack client-side unit testing but they are all inherently brittle due to cross-browser issues and sometimes frequent changes to user interfaces. As Web applications become increasingly client-based, more and more development is outside the scope of TDD. (Or within scope but at considerable cost and effort.)
+</p>
+<p>
+I have become disenchanted with TDD and its ilk over the years for these reasons. In my opinion, the best way to improve quality is to build time for developer testing into the estimates and hold developers accountable for quality product. Emphasizing cross-browser and functional testing at the developer level before a handoff to QA has resulted in better quality in my experience than a doctrinaire emphasis on unit testing and code coverage. (Accountability is another subject entirely and I have a lot of thoughts surrounding that as well, which I'll share someday. Read <a href="http://www.amazon.com/exec/obidos/ASIN/1449305156/bbrown-20/ref=nosim/"><cite>Codermetrics</cite></a> by Jonathan Alexander for more along those lines.)
+</p>

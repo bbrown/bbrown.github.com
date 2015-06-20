@@ -1,0 +1,15 @@
+---
+layout: post
+title: Orangina
+date: '2006-09-20 07:31:00 -0700'
+mt_id: 1146
+blog_id: 1
+post_id: 1146
+basename: orangina
+categories:
+- soda-reviews
+---
+<p>This one was another of the bought because of the name sodas. As Wikipedia correctly notes, the soda is pronounced "ore on zhee nuh." As Wikipedia also notes, it could be pronounced "orn gina." Okay, so it's a little sophomoric but it amused me in the store. The initial taste is definitely orange juicy with a very mellow citrus aftertaste. I couldn't imagine drinking this often, but it's pleasant as a rare treat.
+<a href="http://www.orangina.com/">Official site</a> | <a href="http://en.wikipedia.org/wiki/Orangina">Wikipedia Entry</a>
+<br /><br /><strong>4 of 5 stars</strong>
+</p>

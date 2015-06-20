@@ -1,0 +1,12 @@
+---
+layout: post
+title: Quickies
+date: '2005-09-23 02:56:54 -0700'
+mt_id: 1006
+blog_id: 1
+post_id: 1006
+basename: quickies
+categories:
+- programming
+---
+<br />Here's a couple of interesting articles I've read recently that you might enjoy as well:<ul><li><a href="http://wilshipley.com/blog/2005/09/unit-testing-is-teh-suck-urr.html">Unit Testing is Teh Suck</a></li><li><a href="http://www.scottberkun.com/essays/essay46.htm">Why Software Sucks</a></li></ul>They both center around "suckage" and they both attempt to get around it. Wil Shipley, author of the first article, is one of the founders of <a href="http://www.omnigroup.com/">OmniGroup</a> and <a href="http://www.delicious-monster.com/">Delicious Monster</a> and a captivating writer. Scott Berkun, formerly responsible for usability at Microsoft (ha ha), has a considerable corpus of works that I would recommend highly.<br /><br /><br />

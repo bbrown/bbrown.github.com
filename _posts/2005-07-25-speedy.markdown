@@ -1,0 +1,12 @@
+---
+layout: post
+title: Speedy
+date: '2005-07-25 00:40:40 -0700'
+mt_id: 974
+blog_id: 1
+post_id: 974
+basename: speedy
+categories:
+- go-daddy
+---
+<br />Wow, I thought I'd take <a href="http://speakeasy.net/speedtest/">this speed test at work</a> since the connection <em>always</em> seems zippier than any other I've ever experienced. The results: 11,832 kbps down and 1743 kbps up. Crikey!<br /><br />[UPDATE: My co-worker pointed out that running a test at 6:40 am isn't really representative of the company since it's just me, the security guard, and third-shift call center workers. So I just ran it again: 10,585 kbps down and 1728 kbps up. Still pretty damn impressive!]<br /><br />[NOTE: The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]<br /><br /><br />

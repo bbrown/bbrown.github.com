@@ -1,0 +1,12 @@
+---
+layout: post
+title: For Sale
+date: '2006-01-09 15:43:00 -0700'
+mt_id: 1058
+blog_id: 1
+post_id: 1058
+basename: for-sale
+categories:
+- personal
+---
+Pssst, wanna buy a <a href="http://www.realtor.com/Prop/1054560489">house</a>?<br />

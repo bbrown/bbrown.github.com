@@ -1,0 +1,19 @@
+---
+layout: post
+title: Jerome Fun Run
+date: '2006-06-26 00:56:00 -0700'
+mt_id: 1130
+blog_id: 1
+post_id: 1130
+basename: jerome-fun-run
+categories:
+- personal
+- mini
+---
+<p>Today I went with the <a href="http://www.dynamicminicollective.com/">Dynamic Mini Collective</a> on a fun run to Jerome, Arizona. I'll admit that I was a little hesitant about joining an organization that a) had the word "collective" in its name and b) had as its only unifying principle that its members had bought a particular type of car. It just struck me as an odd <em>raison d'&#xEA;tre</em>, but any chance to drive Buzz for an extended amount of time in interesting locales was easily worth $25.</p>
+<p>We met at a Starbuck's and left at 7:30 AM for Wickenburg. This leg of the trip was pretty uneventful since I'd been on it many, many times. We did see a sign for a pick-your-own peaches store, which we decided would be very enjoyable for The Girls. Another day, perhaps. In Wickenburg, we gathered at the Shell station, refueled, and generally made a spectacle&#x2014;the first of many&#x2014;for the locals.</p>
+<p>Our next stop was Prescott and this section of the run was easily my favorite. We got to go through Congress, Yarnell, Peeples Valley, and then the windingest damn road through the mountains. The towns were neat because they were all so old and rustic. The mountain roads were nothing but switchbacks and I got to really test out Buzz's handling. I wish I could have gotten my new <a href="http://autospeed.drive.com.au/cms/A_2359/article.html">rear sway bar</a> installed for the trip, but timing was just too tight. I occasionally got glimpses of the whole group of Minis going around the switchbacks but mostly I was just focused on the road.</p>
+<p>We stopped in Prescott for supplies. For some reason, Sandi and I completely forgot to bring sunscreen. You just can't spend the whole day in a convertible without protection. We'd be sizzled like a sausage. I captured some video with my digital camera of all the <a href="http://www.youtube.com/watch?v=aeY8T4SRCcY">Minis pulling out of the parking lot</a>; I apologize about the early shakiness of the movie&#x2014;I finally realized that I could steady my hand on the top of the windshield and that really helped towards the end. The Prescott to Jerome period was filled with mountain roads, but they weren't nearly as interesting as the Yarnell ones.</p>
+<p>We reached Jerome at about 11 AM and motored over to our designated parking area. That's the other benefit of being in the DMC: they called ahead and reserved some public parking spaces. The 26 Minis that made the run lined both sides of the main street in Jerome and I heard locals and tourists talking about them the entire time we were shopping and eating. It certainly does make quite an impression!</p>
+<p>I hadn't been to Jerome since my sixth grade field trip through northern Arizona. On that trip, we spent a few hours in Jerome and I can't say that I remember too much beyond that it was a historic place. On this trip, I could appreciate Jerome for what it was. It is simply astonishing how well-preserved most of the town is. Nearly every building has been converted to modern uses while still retaining the feel and spirit of the old structure. We spent most of our time shopping, so I couldn't really indulge my inner historian.</p>
+<p>We separated from the pack after stopping at the Cottonwood Dairy Queen (and completely overwhelming them as well). We had had a long day and wanted to get back to our girls, who we rightly imagined had missed us as much as we missed them. I took <a href="http://www.flickr.com/photos/fivebrowns/sets/72157594177628353/">some pictures</a>, but we were both focused on the driving during what would have been the most photogenic parts of the trip.</p>

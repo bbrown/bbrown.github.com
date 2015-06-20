@@ -1,0 +1,10 @@
+---
+layout: post
+title: RSS Diffs
+date: '2003-08-22 03:08:27 -0700'
+mt_id: 478
+blog_id: 1
+post_id: 478
+basename: rss-diffs
+---
+<br /><a href="http://inessential.com/">Brent Simmons</a> is putting <a href="http://inessential.com/2003/08/21.php">HTML diffs</a> into NetNewsWire. <a href="http://www.fondantfancies.com/shrook/">Shrook</a>, any plans?<br /><br /><br />

@@ -1,0 +1,12 @@
+---
+layout: post
+title: RIP WebMonkey (1996-2004)
+date: '2004-02-12 04:45:50 -0700'
+mt_id: 691
+blog_id: 1
+post_id: 691
+basename: rip-webmonkey-1996-2004
+categories:
+- web-tech
+---
+<br />Wow, <a href="http://hotwired.lycos.com/webmonkey/">WebMonkey</a> is <a href="http://news.com.com/2100-1038_3-5157640.html">dead</a>. And it was an ignominious end, too; a throwaway line in a larger article (someone in a list noted with a chill the sponsored links at the bottom). I learned JavaScript, ColdFusion, and CSS there. It was cutting edge with its lively writing, quirky staff, and embracing of the Web.<br /><br />I haven't visited in ages, as my technical journey veered off the primarily designer course they charted. But I've always remembered the heady times of constantly refreshed content and steering of trends.<br /><br /><br />

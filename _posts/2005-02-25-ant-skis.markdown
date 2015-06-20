@@ -1,0 +1,12 @@
+---
+layout: post
+title: Ant Skis
+date: '2005-02-25 15:46:53 -0700'
+mt_id: 866
+blog_id: 1
+post_id: 866
+basename: ant-skis
+categories:
+- high-geekery
+---
+<br /><a href="http://jonaquino.blogspot.com/2005/02/first-video-game-written-in-ant.html">Skiing Game in Ant</a>: if you can believe it, someone created a skiing game that runs in the build tool <a href="http://ant.apache.org/">Ant</a>. That is freakin' cool! I can't wait to try it out in NAnt. {<a href="http://www.stonecottage.com/josh/archives/000865.html">via</a>}<br /><br /><br />

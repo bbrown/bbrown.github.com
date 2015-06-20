@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Worst
+date: '2003-10-03 17:41:05 -0700'
+mt_id: 563
+blog_id: 1
+post_id: 563
+basename: the-worst
+categories:
+- high-geekery
+---
+<br />I've used a lot of software in my computing life. I've used a lot of "enterprise" software as well since my employer is quite willing to purchase software to solve problems. Therefore, I think I have the ability to make the following statement:<br /><br /><a href="http://www.networkassociates.com/us/products/magic/home.asp">Magic Help Desk</a> from Network Associates is the worst piece of software I have ever seen. It is worse than I could conceive software to be. It is as if it were designed by people who hate people. It's not just counterintuitive, it's anti-intuitive. It assaults every user interface idiom in conventional applications as well as every one in web applications. It requires memorization of complex, arcane procedures to do even its most basic operations.<br /><br />The previous version we had was wrong but basically usable. This "upgrade" we went through a year ago or so removed some basic and critical functionality or buried it under a series of obscure clicks. It almost makes me think that Network Associates charges for upgrades and downgrades since they're obviously trying to get it both ways.<br /><br />One day, I'll try to document the process necessary to get open tickets assigned to you with screenshots. I'd do it now but I'm not at work and I can't access the app remotely. Oh yeah, and I don't want to ruin my weekend.<br /><br /><br />

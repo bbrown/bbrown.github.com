@@ -1,0 +1,12 @@
+---
+layout: post
+title: Rank Lust
+date: '2005-05-03 04:10:10 -0700'
+mt_id: 885
+blog_id: 1
+post_id: 885
+basename: rank-lust
+categories:
+- blogging-world
+---
+<br /><a href="http://archive.scripting.com/2005/05/01#aBirthdayRequest">Kinda sad</a>.<br /><br /><br />

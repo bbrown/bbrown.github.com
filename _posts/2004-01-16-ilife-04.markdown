@@ -1,0 +1,12 @@
+---
+layout: post
+title: iLife '04
+date: '2004-01-16 11:27:47 -0700'
+mt_id: 673
+blog_id: 1
+post_id: 673
+basename: ilife-04
+categories:
+- mac-os-x
+---
+<br />Just got home to find my <a href="http://www.apple.com/ilife/">iLife '04</a> package waiting for me. I just finished installing and converting my iPhoto library. Holy moly! <a href="http://www.apple.com/ilife/iphoto/">iPhoto 4</a> is as fast as it seemed at the keynote. Startup times are very impressive as well. This is so nice and a refreshing change. One other nicety is that the keyword inspector stays on top while you click pictures&#x2014;I hated it how it used to be, it was virtually impossible to enter the metadata.<br /><br /><br />

@@ -1,0 +1,12 @@
+---
+layout: post
+title: WRT54G Fun
+date: '2005-01-27 06:53:10 -0700'
+mt_id: 841
+blog_id: 1
+post_id: 841
+basename: wrt54g-fun
+categories:
+- high-geekery
+---
+<br />So I got the <a href="http://www.amazon.com/exec/obidos/ASIN/B00007KDVI/bbrown-20/ref=nosim/" title="Amazon link">Linksys WRT54G</a> yesterday&#x2014;two business days after I ordered it with free shipping. The price is phenomenal: $49.99 after a $10 mail-in rebate. I plugged it in, flashed it with <a href="http://www.sveasoft.com/content/view/3/1/">Sveasoft's Alchemy Firmware Upgrade</a>, and <a href="http://www.sizemoresr.com/mt/archives/000245.html" title="Everything except the SSID broadcast disabling and UPnP">locked it down</a>. I named the access point "Galt's Gulch" so passers-by can know that I'm down with Ayn Rand.<br /><br />Cruising through the settings (which is all I can do without the DSL installed&#x2014;"The fun will come down tomorrow/Bet your bottom dollar/That tomorrow/There'll be fun."), I was impressed by the range of features Sveasoft has added to the GPL'd Linksys firmware. My favorite is definitely the power boost of 900%! When I had it downstairs, I was getting full signal upstairs through several walls.<br /><br />I'll prepare a full report tomorrow.<br /><br />[UPDATE (1/28/05): The 900% power boost really boosts the range of the WRT54G. Tomorrow I'll do a little walking and see how far I can go. I'll post another update here.]<br /><br /><br />

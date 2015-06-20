@@ -1,0 +1,10 @@
+---
+layout: post
+title: New Blog
+date: '2003-07-11 05:19:21 -0700'
+mt_id: 332
+blog_id: 1
+post_id: 332
+basename: new-blog
+---
+<br />There's a new blog called <a href="http://www.crookedtimber.org/">Crooked Timber</a> that just struck my fancy&#x2014;it's aggregator-worthy&#x2014;run by a group of academics. It's probably going to become a lot of academic bullpucky, but even that can be valuable sometimes. You've got to know your opponents to probably counter them. <em>Didn't you want to be an academic someday?</em> <a href="2003_07_06_diamonds.cfm#105768089923259042">Yes, but.</a><br /><br /><br />

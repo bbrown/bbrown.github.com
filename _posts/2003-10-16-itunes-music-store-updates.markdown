@@ -1,0 +1,10 @@
+---
+layout: post
+title: iTunes Music Store Updates
+date: '2003-10-16 06:42:58 -0700'
+mt_id: 586
+blog_id: 1
+post_id: 586
+basename: itunes-music-store-updates
+---
+<br />I went to the <a href="http://www.apple.com/retail/musicevent/">Apple Music Event</a> today&#x2014;well, half of it due to an unfortunate time zone miscalculation&#x2014;and was impressed by the <a href="http://www.macrumors.com/events/musicevent2003.html">announcements</a> overall.<br /><br />What impressed me most about everything is how easy it was. It wasn't an easy feat, by any means. But it was easy for the end user. All of the changes made to the iTunes Music Store are seamless to me; I didn't have to download or upgrade a single thing. Gift certificates? Allowances? Biographical information? No big deal at all.<br /><br />"Okay, big deal," you're probably thinking. "It's like a Web site. So what? It's nothing big. Quit making a huge deal about it. Get over it, man."<br /><br />To you I say, "Geez, what a bad attitude!" I don't come on to your blog and rain on your parade, do I? And you're so wrong about it. This is Web Services, baby, and it's a proof of concept like no other. Well, maybe like <a href="http://www.amazon.com/gp/aws/landing.html">Amazon</a> except that the <acronym title="Application Programmer Interface">API</acronym> is private. And I don't think Amazon takes it to the level that Apple does because they have a great ol' Web site for the consumer.<br /><br />Web Services have come a long way since the demos at <a href="http://www.xmethods.net/">Xmethods</a>. I hope that <a href="http://www.apple.com/">Apple</a> is at the forefront (though I must give credit to Microsoft for its embrace of Web Services and standards, mostly).<br /><br />[UPDATE: Okay, so there was a new version of iTunes required. It's still basically cool. Also, it appears that Apple regards the iTunes Music Store as a means to selling iPods. That's consistent with a lot of the other software they create and release for free in order to sell the hardware.]<br /><br /><br />

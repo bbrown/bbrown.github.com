@@ -1,0 +1,10 @@
+---
+layout: post
+title: Beastie Boys References
+date: '2003-09-18 17:15:02 -0700'
+mt_id: 534
+blog_id: 1
+post_id: 534
+basename: beastie-boys-references
+---
+<br />I own the Beastie Boys CD <a href="http://www.amazon.com/exec/obidos/ASIN/B000002UUN/bbrown-20/ref=nosim/" title="Amazon link"><cite>Paul's Boutique</cite></a>. In fact, I've purchased that particular CD twice in my lifetime. If you're not familiar with the Beastie Boys, they're a rap group that was very popular in the late 80s and early 90s but have since pretty much disappeared off the scene.<br /><br />I'm not a big fan of rap, though I used to be a serious connoisseur in my youth. And by that I mean ages 12 to 16, which would have been from 1986 to 1990. In that time, I accumulated about 45-50 CDs of rap music ranging from Public Enemy to EPMD to Geto Boys to The Jaz to Digital Underground. When I look back, I can't believe that I listened to some of the things I listened to but there's a lot of my childhood that is completely inexplicable. In fact, I went to a Public Enemy concert when I was 14 or 15 with my friend and I recall that we were easily the most white bread kids there.<br /><br />The Beastie Boys, along with 3rd Bass, are the only two rap groups that I keep in my CD library&#x2014;though <a href="http://www.mchawking.com/">MC Hawking</a> is a recent and hilarious addition. Why? They're lyrics and rhythm are just too funky and have withstood the test of time. Every now and then I get the urge to go purchase a Public Enemy, Young MC, or Digital Underground CD but it quickly passes because I only liked a couple of songs from each CD. The Beastie Boys in particular offer us some highly packed lyrics, chock full of <a href="http://www.moire.com/beastieboys/samples/songs.php">pop cultural allusions</a>.<br /><br />To be perfectly honest, I've never heard any of the Beastie Boys' other CDs so I don't know how characteristic <cite>Paul's Boutique</cite> is of their oeuvre. If you like rap (or can stomach it), you should really get that CD.<br /><br /><br />

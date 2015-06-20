@@ -1,0 +1,10 @@
+---
+layout: post
+title: Naming
+date: '2003-12-13 22:57:57 -0700'
+mt_id: 655
+blog_id: 1
+post_id: 655
+basename: naming
+---
+<br />Good section on the process of <a href="http://www.igorinternational.com/processpoints.html">naming a company</a> and <a href="http://www.igorinternational.com/namingtools.html">good tools</a> as well.<br /><br /><br />

@@ -1,0 +1,12 @@
+---
+layout: post
+title: WTF
+date: '2004-05-09 14:40:23 -0700'
+mt_id: 734
+blog_id: 1
+post_id: 734
+basename: wtf
+categories:
+- metasite
+---
+<br />You may have noticed some funkiness in these blogs today (and maybe last night, I can't remember when I started). You may also have noticed that there's no <a href="http://www.blogger.com/">Blogger</a> badge at the bottom. These two facts <strong>are</strong> related.<br /><br />bblog is now a <a href="http://www.movabletype.org/">MovableType</a> blog. Why? Well, <a href="http://www.blosxom.com/">Blosxom</a> was super cool but it didn't really meet my needs, <a href="http://www.wordpress.org/">WordPress</a> was super cool but it doesn't work on non-Apache servers, and there wasn't really any other options for me out there.<br /><br />I wouldn't trust the permalinks just yet because I'm going to be breaking the hell out of them this week. I'm not a big fan of the sequential archives, but I don't know&#x2014;at this point&#x2014;how to change to a better organization scheme. I'll let you know when everything is non-funky again.<br /><br />[UPDATE (5/10/04): Any comments that you left at the old bblog are history. MT doesn't have any sort of comment import functionality: I just put in one comment manually and decided that I've got better things to do. If you're fanatical that your comment be preserved for posterity, drop me a line, get a life, or manually re-add it. Your choice.]<br /><br /><br />

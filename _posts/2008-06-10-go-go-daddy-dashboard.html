@@ -1,0 +1,26 @@
+---
+layout: post
+title: Go Go Daddy Dashboard!
+date: '2008-06-10 16:00:00 -0700'
+mt_id: 1295
+blog_id: 1
+post_id: 1295
+basename: go-go-daddy-dashboard
+categories:
+- personal
+- mac-os-x
+- go-daddy
+---
+<a href="http://gadgets.godaddy.com/MacOSX/DomainSearch/"><img src="godaddy_domain_search_widget.png" alt="Screenshot of the widget" style="float:right;margin-left:6px;margin-bottom:4px;" border="0" height="410" width="332" /></a>
+<p>
+I just deployed my latest effort: the <a href="http://gadgets.godaddy.com/MacOSX/DomainSearch/">Official GoDaddy.com Domain Search Dashboard Widget</a>. I know, it's not a terribly catchy name but it's quite descriptive. It's a Dashboard widget for Mac OS X that enables you to check domain name availability. It's certainly a variation on a <a href="/2008/01/08/my-new-new-thing.aspx">common</a> <a href="/2008/04/08/talking-bout-my-integration.aspx">theme</a> but what can I say? Domain registration is bread and butter.
+</p>
+<p>
+This widget was a little different than the other ones I've done, however. It's got all the visual flair attendant with Mac OS X, to be sure. The animation took forever to get just right and smooth. It also had to have an update mechanism since it doesn't reside anywhere that we can control. The update process is fairly simple but so is the app itself.
+</p>
+<p>
+It consumed a lot more time than you'd expect, but I enjoyed it. Well, except for some of the fighting with <a href="http://www.apple.com/macosx/developertools/dashcode.html">Dashcode</a>. Oh and that issue I had all yesterday with the little loading spinner: that drove me nuts trying to pin down the cause. (Incidentally, in the <code>open</code> method of the <code>XmlHttpRequest</code> object, if you specify <code>false</code> for the asynchronous parameter, it will not run any code that updates the widget until the <code>response</code> comes back. But only in the Dashboard version of WebKit. Safari works just fine. It was a pain to track down.)
+</p>
+<p style="font-size:xx-small;clear:both;">
+[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]
+</p>

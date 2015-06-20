@@ -1,0 +1,10 @@
+---
+layout: post
+title: OmniWeb
+date: '2003-04-10 05:44:29 -0700'
+mt_id: 148
+blog_id: 1
+post_id: 148
+basename: omniweb-2
+---
+<br />Sneaky peek #2 of OmniWeb is <a href="http://www.omnigroup.com/ftp/pub/software/MacOSX/.sneakypeek/releases/">available</a>. After a day of use, I can't see any difference from 4.2 except that pages render quicker than they used to and my pages look better than they do in Safari because of OmniWeb's different rendering style.<br /><br />I am, though, recalling why I fell in love with OmniWeb: shortcuts, download manager that lets you save wherever you want instead of just your download folder, ad blocking up the yin-yang, and drawers galore. No tabs, though. Sigh.<br /><br /><br />

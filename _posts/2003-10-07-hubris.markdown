@@ -1,0 +1,12 @@
+---
+layout: post
+title: Hubris
+date: '2003-10-07 01:05:46 -0700'
+mt_id: 568
+blog_id: 1
+post_id: 568
+basename: hubris
+categories:
+- blogging-world
+---
+<br /><a href="http://scriptingnews.userland.com/2003/10/07#When:5:56:47AM">Mr. Bush, fix your RSS feeds.</a> "I wish someone would explain to me why a user like the President of the United States has to have such a jumble of formats." Umm, perhaps your priorities are not his? It's like he doesn't even <em>want</em> to revolutionize politics.<br /><br /><br />

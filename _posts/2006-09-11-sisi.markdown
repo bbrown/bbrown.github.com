@@ -1,0 +1,14 @@
+---
+layout: post
+title: Sisi
+date: '2006-09-11 10:24:00 -0700'
+mt_id: 1137
+blog_id: 1
+post_id: 1137
+basename: sisi
+categories:
+- soda-reviews
+---
+<p>This is another soda I bought because of the name. I don't know if it's pronounced "See See" or "Sissy" or some other way entirely (it's Dutch after all), but I prefer "Sissy" myself. It tastes like orange juice but I don't know if there's even anything orange in there besides coloring: vruchtensap&#x2014;I think that means fruit juice&#x2014;10% (8% is sinaasappelsap&#x2014;I think that's apple juice&#x2014;and 2% limoensap&#x2014;I think that's lemon juice). Also, the label said "JUN.05" but I can't tell if that's when it was bottled, which is slightly alarming--or when it expired, which is very alarming. All in all, "enh" for the taste and "bleh" for the coating in my mouth.
+<a href="http://www.vrumona.nl/domains/vrumona/pages/contentright.aspx?contentcode=sisi">Official site</a>
+<br /><br /><strong>2 of 5 stars</strong></p>

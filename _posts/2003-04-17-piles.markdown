@@ -1,0 +1,10 @@
+---
+layout: post
+title: Piles
+date: '2003-04-17 04:29:01 -0700'
+mt_id: 160
+blog_id: 1
+post_id: 160
+basename: piles
+---
+<br />The Mac rumor community has been abuzz with talk about a potential upcoming feature of Panther&#x2014;Mac OS X 10.3&#x2014;that Apple patented long ago: <a href="http://www.macrumors.com/pages/2003/04/20030413220229.shtml" title="MacRumor's page">Piles</a>. Someone's created a <a href="http://homepage.mac.com/rdas7/piles.html">Flash animation</a> to illustrate the idea. <a href="http://www.asktog.com/columns/035SquanAdv.html">Tog</a> even commented on it, which is natural since, as the head of Apple's HCI group during its creation, he was probably intimately familiar with the idea. <a href="http://www.macdailynews.com/">MacDailyNews</a> provides <a href="http://www.macdailynews.com/comments.php?id=P908_0_1_0">good coverage</a> as well.<br /><br />[UPDATE 4/21] <a href="http://www.eweek.com/">eWeek</a> has an <a href="http://www.eweek.com/article2/0,3959,1036539,00.asp" title="Ahh, Vignette! They're even running all of their articles through the Page Generator. Wonder what their setup is like--I know it will be horrific!">article</a> today about some other new features of the upcoming release, though it's quite vague and certainly not comprehensive&#x2014;not by a longshot!]<br /><br /><br />

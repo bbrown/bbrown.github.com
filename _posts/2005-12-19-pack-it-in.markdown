@@ -1,0 +1,12 @@
+---
+layout: post
+title: Pack It In
+date: '2005-12-19 12:10:00 -0700'
+mt_id: 1051
+blog_id: 1
+post_id: 1051
+basename: pack-it-in
+categories:
+- personal
+---
+Uggh, my <a href="http://www.bloglines.com/">Bloglines</a> queue is up to 5,191 items unread. I was caught up before I hit crunch time working on Quick Blog but now I'm beginning to think it's hopeless. I could spend an entire weekend catching up, but it's just not worth it. *sigh*

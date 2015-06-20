@@ -1,0 +1,12 @@
+---
+layout: post
+title: Scanners
+date: '2004-06-17 15:32:27 -0700'
+mt_id: 756
+blog_id: 1
+post_id: 756
+basename: scanners
+categories:
+- mac-os-x
+---
+<br />I just bought the <a href="http://www.amazon.com/exec/obidos/ASIN/B0000AZ3BL/bbrown-20/ref=nosim/">Canon CanoScan LiDE 80</a>&#x2014;is there a better example of a braindead product name than that?&#x2014;from Amazon for $124.39, which is a <a href="http://froogle.google.com/froogle?q=lide+80&amp;btnG=Search+Froogle&amp;scoring=p">smoking hot deal</a> considering the free shipping and all. I decided that I also needed to upgrade the scanning software included (<a href="http://www.scansoft.com/omnipage/">ScanSoft's OmniPage SE</a>) from the lite version to something more sophisticated.<br /><br />Upon further investigation, I came to the conclusion that <a href="http://www.scansoft.com/omnipage/mac/">OmniPage Pro for X</a> wasn't for me. I want software that is very much ready for OS X and sports a genuine OS X look and feel. From what I can tell, OmniPage had neither quallity. Luckily, I stumbled onto <a href="http://www.irislink.com/opt/uk/products/readiris/mac/index.html">ReadIRIS Pro 9</a>, which has gotten some <a href="http://www.versiontracker.com/dyn/moreinfo/macosx/8605">rave reviews</a>.<br /><br /><acronym title="Optical Character Recognition">OCR</acronym> software is very expensive: the OmniPage upgrade alone was $99. ReadIRIS&#x2014;what is it with these stupid names&#x2014;retails for $129 but Amazon is selling it for <a href="http://www.amazon.com/exec/obidos/ASIN/B0000DC3TS/bbrown-20/ref=nosim/">$99</a> <strong>and</strong> they're offering a $75 mail-in rebate! Let me tell you, folks, it doesn't get any better (or cheaper) than that!<br /><br />I'll devote a future entry to reviewing these two products. I want to scan in reams of historical documents for a major project I'm undertaking but I also need to scan in pictures of my two little angels from time to time. This combination seems like a perfect fit, but I'll let you know.<br /><br /><br />

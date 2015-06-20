@@ -1,0 +1,10 @@
+---
+layout: post
+title: Winer Fun
+date: '2003-10-22 03:32:14 -0700'
+mt_id: 594
+blog_id: 1
+post_id: 594
+basename: winer-fun
+---
+<br /><a href="http://www.redmonk.net/monkinetic">Steve</a> documents some more <a href="http://www.redmonk.net/monkinetic/2003/10/21#item2342">Winer wackiness</a>. <a href="http://www.scripting.com/">He</a>'s so &#x2026; volatile.<br /><br /><br />

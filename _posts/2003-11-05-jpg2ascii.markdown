@@ -1,0 +1,10 @@
+---
+layout: post
+title: jpg2ascii
+date: '2003-11-05 15:59:04 -0700'
+mt_id: 614
+blog_id: 1
+post_id: 614
+basename: jpg2ascii
+---
+<br />I just found an <a href="http://jpg2asc.hierklikken.com/">amazing JPEG to ASCII converter</a>. Here's one of my <a href="http://jpg2asc.hierklikken.com/jpg2asc.php?imgurl=http://www.bbrown.info/gallery/bbrown/Thumbs/32.jpg">favorite pictures</a> of me in text. Wicked cool!<br /><br /><br />

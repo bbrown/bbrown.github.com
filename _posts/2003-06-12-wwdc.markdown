@@ -1,0 +1,10 @@
+---
+layout: post
+title: WWDC
+date: '2003-06-12 23:54:39 -0700'
+mt_id: 250
+blog_id: 1
+post_id: 250
+basename: wwdc
+---
+<br /><a href="http://www.appleturns.com/">Jack</a>, I think that <a href="http://www.news.com/">News.com</a> <a href="http://news.com.com/2100-1042_3-1016770.html?tag=fd_top">confirmation</a> should settle your <a href="http://www.appleturns.com/scene/?id=4009">"faint rumblings"</a>.<br /><br />[UPDATE: Yee-haw! I got a mention in <a href="http://www.appleturns.com/scene/?id=4012">today's scene</a> on this one. As they say in his <a href="http://www.appleturns.com/scene/?id=3996">part of 'merica</a>, wicked pisser!]<br /><br /><br />

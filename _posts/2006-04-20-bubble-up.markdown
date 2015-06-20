@@ -1,0 +1,14 @@
+---
+layout: post
+title: Bubble Up
+date: '2006-04-20 07:58:00 -0700'
+mt_id: 1112
+blog_id: 1
+post_id: 1112
+basename: bubble-up
+categories:
+- soda-reviews
+---
+<p>Kind of like a harder Sprite. I'm not a big fan of that soda genre, but this one was definitely the best of that bunch. No offensiveness at all and no aftertaste.
+<a href="http://www.monarchbeverages.com/brand.asp">Official site</a> | <a href="http://en.wikipedia.org/wiki/Bubble_Up">Wikipedia entry</a> | <a href="http://www.popsoda.com/bubbleup.html">Pop the Soda Shop</a>
+<br /><br /><strong>3 of 5 stars</strong></p>

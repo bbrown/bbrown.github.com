@@ -1,0 +1,15 @@
+---
+layout: post
+title: Do No Evil
+date: '2006-01-23 07:01:00 -0700'
+mt_id: 1065
+blog_id: 1
+post_id: 1065
+basename: do-no-evil
+categories:
+- google
+---
+<p><a href="http://www.boston.com/news/nation/articles/2006/01/21/google_subpoena_roils_the_web/">Google's response</a> to the Justice Department's request for search data is exactly what a company that <a href="http://investor.google.com/conduct.html">pledges to do no evil</a> would do. I hope this convinces the naysayers that Google really means what it says. Yahoo, AOL, and MSN all folded like origami, agreeing to cooperate without so much as a peep.</p>
+<p>This behavior is unsurprising from the Bush Administration, which has been on a tear lately to protect the American people from themselves&#x2014;especially American children. And, of course, the response from the Democrats in Congress&#x2014;those who cherish our privacy so&#x2014;is to force search engines to permanently destroy the data on a regular basis. Sadly, Google's defense is that the subpoena is "overreaching"&#x2014;not exactly a spirited or principled one.</p>
+<p>[UPDATE (1/25/2006): Oh, <a href="http://yro.slashdot.org/article.pl?sid=06/01/25/0432239">forget it</a>.]
+</p>

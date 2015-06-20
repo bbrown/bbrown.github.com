@@ -1,0 +1,12 @@
+---
+layout: post
+title: Hostile Work Environments
+date: '2005-05-11 01:47:30 -0700'
+mt_id: 890
+blog_id: 1
+post_id: 890
+basename: hostile-work-environments
+categories:
+- personal
+---
+<br />And this is the kind of <a href="http://spaces.msn.com/members/asaxton/Blog/cns!1pL2GiYmYBqFIOyYDNOMPzZw!746.entry">asshole</a> that I had to put up with at my last job&#x2014;he's a testament to making snap decisions in job interviews. I sure wish <a href="http://odetocode.com/Articles/361.aspx">this</a> had come out six months ago.<br /><br />[UPDATE: The aforementioned asshole restricted access to his blog, presumably so that the link above wouldn't work. I wish I had copied the text so his rudeness would be preserved for posterity. C'est la vie!]<br /><br />[UPDATE (9/16/2005): On a lark, I decided to try out Google's new <a href="http://blogsearch.google.com/">Blogsearch tool</a> with this particular entry in mind. Thankfully, Google provides contextual snippets of the entry's text. With a little work, you can practically get the full entry. Here's Adam Saxton's rudeness:<blockquote><p>Work has gotten a lot better in the last week or two. One of the people on our team found a new job so that allowed us to really start focusing on what needed to get done. Our roadblocks within the team are finally gone from my perspective. I was actually contemplating about leaving the company because of that one individual mainly because that is not how a team should be. He made for one of the worst work environments i have ever seen.</p><p>Needless to say we really have a "team" now and it's not one guy trying to run the whole show who has no idea what he's doing. I won't even go into what his code was like. Oh well. Life moves on. I know he is happy now, which is great. And so am I, which is also great. Time to really get to work.</p></blockquote>After rereading it with the perspective of time and additional information about the work environment there since I left, his little rant is particularly ironic. The "one guy trying to run the whole show" wasn't him, but that's certainly changed. The "perspective" from which I was a "roadblock" was that I didn't bend to his every whim. He was right about one thing: I am certainly happy now!]<br /><br />[UPDATE 2: Oh and his little justification for pulling it&#x2014;deciding "not to broadcast my life to the internet"&#x2014;was clearly insincere since he's had <a href="http://cs.saxtonfamily.org/blogs/">a blog</a> up for awhile that offers lots of details.]<br /><br /><br />

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Library 2.0
+date: '2004-01-05 22:32:13 -0700'
+mt_id: 668
+blog_id: 1
+post_id: 668
+basename: library-2-0
+---
+<br />Chronopath has released <a href="http://www.chronopath.com/index.php?page=library">Library 2.0</a> and it's a doozy of an update. There's still a lot of niggling issues, but the fact that it now supports movies, music, and games means that I can have a one-stop solution for cataloging my multimedia collecting. Now if only it could get me time to input the thousands of items&#x2026;<br /><br />If you're not into paying for software, may I recommend <a href="http://books.aetherial.net/">Books</a> as an alternate? It's not as comprehensive or easy to use, but it's definitely acceptable and getting better every day.<br /><br /><br />

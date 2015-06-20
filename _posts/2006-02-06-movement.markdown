@@ -1,0 +1,15 @@
+---
+layout: post
+title: Movement
+date: '2006-02-06 13:44:00 -0700'
+mt_id: 1073
+blog_id: 1
+post_id: 1073
+basename: movement
+categories:
+- go-daddy
+---
+<p>I got moved to a new section of the building so that our entire team can be in a single row. Overall, I'm pleased with the move. I was in an extremely high-traffic area with my back to the executive suite door across from my wing's bathrooms and break room. I was constantly distracted by moving shapes in my peripheral vision.</p>
+<p>Because I wear <a href="/2003/06/12/review-etymotics-er6-isolator-2.aspx">Etymotics</a> all day, these shapes always seemed to be in my cube wanting to talk to me. I'd whip around to find no one there and then I'd resume working. As I said, it was very distracting. My new cube has higher walls and no movement in my periphery. I have definitely noticed a difference in my productivity over here.</p>
+<p>The downside is that it's in one of the dark areas that programmers seem to love and I've never liked. Rather than requesting Facilities to turn on my light (and simultaneously causing some programmers to recoil and hiss like a vampire near a just-opened door), I'm going to give it a shot and see if I still abhor the darkness.</p>
+<p style="font-size:xx-small;">[The views expressed on this website/weblog are mine alone and do not necessarily reflect the views of Go Daddy Software, Inc.]</p>

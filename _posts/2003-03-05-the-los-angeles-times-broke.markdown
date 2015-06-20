@@ -1,0 +1,12 @@
+---
+layout: post
+title: The Los Angeles Times broke
+date: '2003-03-05 23:33:37 -0700'
+mt_id: 118
+blog_id: 1
+post_id: 118
+basename: the-los-angeles-times-broke
+categories:
+- mac-os-x
+---
+<br />The <a href="http://www.latimes.com/"><cite>Los Angeles Times</cite></a> broke the <a href="http://www.latimes.com/technology/la-fi-music4mar04001448,1,7084683.story?coll=la%2Dheadlines%2Dtechnology" title="Requires free registration to read">story</a> about an upcoming Apple-branded online music service. <a href="http://www.siliconvalley.com/">The Merc</a> has a friendly <a href="http://www.siliconvalley.com/mld/siliconvalley/5311076.htm">version</a> of the story&#x2014;no registration, same information.<br /><br />Essentially, five labels are being courted to offer up their music catalogs for sale through <a href="http://www.apple.com/">Apple</a>'s <a href="http://www.apple.com/itunes/">iTunes</a> software for use in the <a href="http://www.apple.com/ipod/">iPod</a>. The music would be available for 99&#xA2; per song.<br /><br /><a href="http://www.37signals.com/svn/archives/000103.php" title="37signals discussion">Reaction</a> <a href="http://www.macslash.org/articles/03/03/04/1549205.shtml">has</a> <a href="http://forums.macrumors.com/showthread.php?threadid=21412">been</a> <a href="http://apple.slashdot.org/article.pl?sid=03/03/04/1758231&amp;mode=thread&amp;tid=141&amp;tid=176">mixed</a>. I, for one, am completely excited by the prospect of this because I have far too often purchased a CD for one or two songs&#x2014;as I'm sure everyone has. This move would enable me to spend less to get exactly the same thing, a winning proposition for me.<br /><br />I also could see this eventually revolutionizing the music industry, completely changing the distribution of music. Instead of waiting to release music until an entire album is recorded, labels can release each song as it is recorded. As I mentioned in the <a href="http://www.37signals.com/svn/archives/000103.php?28#bill_brown_002441">37signals forum</a>, artists could negotiate much more favorable contracts then they can now and can prove their popularity much more quickly. Radio stations would play a lot more of a band's CD because the labels would promote individual songs in a way that they can't do with singles.<br /><br />So what's the difference between this and all of the other online music services? <a href="http://www.apple.com/">Apple</a>.<br /><br /><br />

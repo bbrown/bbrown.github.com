@@ -1,0 +1,10 @@
+---
+layout: post
+title: Longhorn in 2006!
+date: '2003-10-14 02:50:09 -0700'
+mt_id: 583
+blog_id: 1
+post_id: 583
+basename: longhorn-in-2006
+---
+<br />Microsoft has <a href="http://www.microsoft-watch.com/article2/0,4248,1332766,00.asp">officially stated</a> that Longhorn, the next version of their consumer operating system, will not be released in 2005 like they had hoped: instead, it will be coming sometime in 2006! That means three years of OS X updates between <a href="http://www.apple.com/macosx/">Panther</a> and Longhorn. I think they're going to be way behind right out of the starting gate.<br /><br />How could this happen? How could a behemoth like Microsoft go five years between major consumer operating system releases? There's the <a href="http://www.joelonsoftware.com/articles/fog0000000069.html">usual suspect</a>, but that doesn't account for the inherent stupidity of such a long lag. Could it be the complacency engendered by monopoly?<br /><br />I think that that's exactly what's at work here. Microsoft is the IBM of the naughts. In the 80s, Big Blue was sluggish and rudderless. It was trying to be all things to all people and it lost its way. It took Lou Gerstner&#x2014;got to remember to pick up his book one of these days&#x2014;to revitalize the business and he basically did it by transforming the company into a consultancy, though with a lot of hardware and software as well.<br /><br />But Microsoft doesn't have anyone like Lou Gerstner. Bill Gates is firmly ensconced and Steve Ballmer isn't one to dislodge him. As far as I know or have heard, there's no up-and-comer that's going to change Microsoft's course. And that's spectacular news! We all know what happened when IBM rested on its laurels, even though it seemed indomitable at the time. (I should probably go buy some Apple shares now&#x2026;)<br /><br /><br />

@@ -1,0 +1,10 @@
+---
+layout: post
+title: PHP5
+date: '2003-07-30 04:19:15 -0700'
+mt_id: 390
+blog_id: 1
+post_id: 390
+basename: php5
+---
+<br />If you're even marginally interested in <a href="http://www.php.net/"><acronym title="Personal Homepage Preprocessor or PHP Hypertext Preprocessor">PHP</acronym></a>, you need to check out <a href="http://www.phppatterns.com/">Harry Fuecks</a>' 19-page <a href="http://www.sitepoint.com/article/1192">introduction to PHP5</a>. It's excellent and comprehensive. Since my interest in PHP is of the marginal variety, I skimmed several sections but it seems like PHP is advancing into the big leagues of ASP.NET, CFMX, and JSP&#x2014;which is very, very cool.<br /><br /><br />

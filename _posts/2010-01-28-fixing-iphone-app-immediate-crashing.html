@@ -1,0 +1,18 @@
+---
+layout: post
+title: That's a Pickle
+date: '2010-01-28 06:29:11 -0700'
+mt_id: 1432
+blog_id: 1
+post_id: 1432
+basename: fixing-iphone-app-immediate-crashing
+---
+<p>
+Here's the problem I had: tapping on any third-party iPhone application opened it and then immediately closed it. All Apple application opened and worked as expected. It was a hard issue to Google and the only advice I found was to wipe your iPhone and restore from a backup. I wasn't interested in that.
+</p>
+<p>
+The cause turned out to be very, very simple. Third-party applications are assigned to your iTunes account when you download them. The FairPlay DRM validates that account when you open an application (or song or anything really). If it is invalid, then it just opens and immediately closes.
+</p>
+<p>
+The fix is easy. Go to Settings > Store and you'll probably notice that your account is missing. Tap "Sign In" and log back in. You should find that all of your third-party applications now open and work normally.
+</p>

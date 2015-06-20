@@ -1,0 +1,19 @@
+---
+layout: post
+title: An Honor
+date: '2006-10-06 10:33:00 -0700'
+mt_id: 1151
+blog_id: 1
+post_id: 1151
+basename: an-honor
+categories:
+- go-daddy
+- blogging-world
+- net-development
+---
+<p>
+Former co-worker <a href="http://www.davidlevitt.com/">Dave</a> pointed out to me that <a href="http://mvolo.com/">Mike Volodarsky</a> has started a blog using <a href="http://www.godaddy.com/gdshop/blog/landing.asp">Quick Blog</a>. He's the Program Manager for Microsoft's IIS development team. (And apparently unaware of all the <a href="http://blogs.msdn.com/">Microsoft blogging resources</a> available to him. Shhhh.)
+</p>
+<p>
+[UPDATE (1/12/2007): He's <a href="http://mvolo.com/blogs/serverside/archive/2006/12/19/The-self_2D00_hosted-journey-is-finally-coming-to-an-end.aspx">moved</a> to Community Server for obvious reasons. But not before writing up a <a href="http://mvolo.com/blogs/serverside/archive/2006/11/07/Free-no_2D00_hassle-blogging-with-Quick-Blog.aspx">great entry about Quick Blog</a>.]
+</p>

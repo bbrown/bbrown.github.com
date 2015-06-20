@@ -1,0 +1,10 @@
+---
+layout: post
+title: Hydra
+date: '2003-06-17 06:24:44 -0700'
+mt_id: 269
+blog_id: 1
+post_id: 269
+basename: hydra
+---
+<br />There's a new version of <a href="http://hydra.globalse.org/">Hydra</a> out now: <a href="http://hydra.globalse.org/Hydra.dmg">1.1</a>. Here's <a href="http://hydra.globalse.org/news.html">what's new</a>.<br /><br /><br />

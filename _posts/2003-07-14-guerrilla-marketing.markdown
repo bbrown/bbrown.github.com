@@ -1,0 +1,10 @@
+---
+layout: post
+title: Guerrilla Marketing
+date: '2003-07-14 18:18:05 -0700'
+mt_id: 346
+blog_id: 1
+post_id: 346
+basename: guerrilla-marketing
+---
+<br /><a href="http://greatmindsinmarketing.com/sample.cfm?contentID=2395">Guerrilla marketing</a> was one of the few things I really enjoyed about <a href="http://www.paintinginthepark.com/">my former pottery studio business</a>&#x2014;the other being the Web site itself, duh. We did some pretty innovative things to get noticed and we had practically zero budget.<br /><br />For example, I set up the administrator app for our <a href="http://www.paintinginthepark.com/calendar/">calendar</a> to email all of the local newspapers, television shows, and web sites with information about the event. We did it through a customized email or a form post. It was really cool and we were the only studio in town that consistently got in the paper.<br /><br />We also bought a number of Google AdWords. We probably spent a total of $100 over the course of a year and a half, but we got emails from around the world for our studio and first-page placement for those keywords. We got people from far away in the Valley pass a dozen pottery studios because they heard about us from Google or people planning visits to the Valley came to our studio for that same reason.<br /><br />We made door hangers, flyers, and other throwaways for distribution and we put them on brightly-colored paper for added visibility. We picked neighborhoods that fit our demographic and we absolutely plastered them to good effect. We'd go up to people working in their yards and personally deliver a spiel about our family-owned studio.<br /><br />We even got on a local news program. Take all of this with a grain of salt, though, because my business failed after two and a half years. It mostly had to do with location, but we also were way too generous with our specials. We, in effect, trained our customers to come only during the specials. If you've got any questions about marketing from someone who was responsible for low-budget marketing for two and a half years, leave a comment and I'll respond.<br /><br /><br />

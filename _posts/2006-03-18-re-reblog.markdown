@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'Re: reBlog'
+date: '2006-03-18 19:46:00 -0700'
+mt_id: 1097
+blog_id: 1
+post_id: 1097
+basename: re-reblog
+categories:
+- web-tech
+---
+<p>I read <a href="http://a.wholelottanothing.org/">Matt Haughey</a>'s <a href="http://www.lifehacker.com/software/feature/how-to-set-up-reblog-killer-server-side-feed-reader-160825.php">overview of reBlog on Lifehacker</a> with considerable interest. I am a <a href="http://www.bloglines.com/">Bloglines</a> user too and it often is hard to keep up with the 280 or so feeds to which I subscribe. I like the idea of a <a href="http://www.reblog.org/">feed aggregator designed for power users</a> and I can't imagine a feed reader that requires installation on a server to ever be ready for the average user.</p>
+<p>I installed it and imported my OPML list from Bloglines. It got about halfway through the list the first time before it timed out. The second time worked better because most of the feeds had already been set up. The keyboard navigation was everything Matt said it would be except for the fact that it wouldn't hold my keyboard navigation setting in the session&#x2014;a <a href="http://sourceforge.net/forum/forum.php?thread_id=1463471&amp;forum_id=363574">known problem</a>. Having to hit the "/" key on every page was annoying but I still didn't have to move my hand from the keyboard.</p>
+<p>Then it hit me. This is my application at this point. I've installed it, blocked access to the world, and I can do whatever I want. So I changed the session-reading logic so that there wasn't a possibility that keyboard navigation could be off. And it worked beautifully!</p>
+<p>It's really simple: open up the file /your-reblog-folder/library/RF/Utility.functions.php and change line 125 from <code>: 0);</code> to <code>: 1);</code>. If it's not line 125 in your installation, find the line after the line reading <code>REF_USE_KEYBOARD</code> and make the change.</p>
