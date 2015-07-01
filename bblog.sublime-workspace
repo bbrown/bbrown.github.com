@@ -1,0 +1,981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tool",
+				"tooltipDefinitions"
+			],
+			[
+				"data",
+				"dataColumn"
+			],
+			[
+				"columns",
+				"columnsLeft"
+			],
+			[
+				"transactionType",
+				"transactionTypeName"
+			],
+			[
+				"otherTransaction",
+				"otherTransactionId"
+			],
+			[
+				"searc",
+				"searchTerm"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"bloo",
+				"bloombergStatus"
+			],
+			[
+				"bloom",
+				"bloombergCheck"
+			],
+			[
+				"interested",
+				"interestedStock"
+			],
+			[
+				"update",
+				"updatedOn"
+			],
+			[
+				"ticker",
+				"tickerSymbol"
+			],
+			[
+				"date",
+				"daterange"
+			],
+			[
+				"submit",
+				"submitGetQuotesRequest"
+			],
+			[
+				"ngIf",
+				"ngIfDirective (?)"
+			],
+			[
+				"Stock",
+				"StockDetailsEditController"
+			],
+			[
+				"conca",
+				"concatTask"
+			],
+			[
+				"bower",
+				"bowerJsonPath"
+			],
+			[
+				"bowerComponen",
+				"bowerComponentsPath"
+			],
+			[
+				"bowerCom",
+				"bowerComponents"
+			],
+			[
+				"current",
+				"currentStockDetail"
+			],
+			[
+				"hide",
+				"hideModalFunction"
+			],
+			[
+				"headers",
+				"headersGetter"
+			],
+			[
+				"stockDetail",
+				"stockDetailDialog"
+			],
+			[
+				"empty",
+				"emptyStockDetail"
+			],
+			[
+				"bi",
+				"biApiUrl"
+			],
+			[
+				"getSect",
+				"getSectorMarketBreakdown"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"service",
+				"serviceError"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"cl",
+				"controller	AngularJS"
+			],
+			[
+				"stock",
+				"stockToDisplay"
+			],
+			[
+				"getSto",
+				"getStockPriceData"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"toHaveBeen",
+				"toHaveBeenCalled"
+			],
+			[
+				"redirect",
+				"redirectPickSecondFactor"
+			],
+			[
+				"to",
+				"toBeGreaterThan"
+			],
+			[
+				"check",
+				"checkPasscodeMock"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalled"
+			],
+			[
+				"door",
+				"doorController"
+			],
+			[
+				"expiration",
+				"expirationTime"
+			],
+			[
+				"redis",
+				"redisClientMock"
+			],
+			[
+				"incr",
+				"incrReturn"
+			],
+			[
+				"failure",
+				"failureThreshold"
+			],
+			[
+				"it",
+				"it	it"
+			],
+			[
+				"time",
+				"timeRemaining"
+			],
+			[
+				"fail",
+				"failureThreshold"
+			],
+			[
+				"rolling",
+				"rollingFailureInSeconds"
+			],
+			[
+				"lock",
+				"lockoutPeriodInMilliseconds"
+			],
+			[
+				"is",
+				"isAlreadyLockedOut"
+			],
+			[
+				"send",
+				"sendSecondFactor"
+			],
+			[
+				"b",
+				"be	beforeEach"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"midas",
+				"midasApp"
+			],
+			[
+				"root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"syn",
+				"synonymKey"
+			],
+			[
+				"r",
+				"rClient"
+			],
+			[
+				"_",
+				"_esclient"
+			],
+			[
+				"priva",
+				"privateLabelId"
+			],
+			[
+				"hi",
+				"hideHelp"
+			],
+			[
+				"style",
+				"styleElement"
+			],
+			[
+				"iS",
+				"isAvailable"
+			],
+			[
+				"account",
+				"accountPageKeys"
+			],
+			[
+				"glob",
+				"globalKeys"
+			],
+			[
+				"accoun",
+				"accountPageKeys"
+			],
+			[
+				"acc",
+				"accountPageKeys"
+			],
+			[
+				"Shop",
+				"ShopperID"
+			],
+			[
+				"get",
+				"getShortcutsFromLabels"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"minify",
+				"Minify Javascript"
+			],
+			[
+				"type",
+				"Typewriter: Scrolling Mode (Toggle)"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"swap",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"jasmine",
+				"Jasmine: Switch between code and spec"
+			],
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"power",
+				"Set Syntax: Powershell v2"
+			],
+			[
+				"min",
+				"Minify Javascript"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bbrown/src/bbrown.github.com"
+	],
+	"file_history":
+	[
+		"/Users/bbrown/yam/bidness/web/src/common/graphs/marketGraph.js",
+		"/Users/bbrown/yam/bidness/web/src/common/utilityDirectives.js",
+		"/Users/bbrown/yam/bidness/web/src/common/stockHeader.html",
+		"/Library/LaunchDaemons/dev.mysql.plist",
+		"/Users/bbrown/yam/bidness/web/bower.json",
+		"/Users/bbrown/yam/yamdoor/web/doorController/lockout.html",
+		"/Users/bbrown/yam/yamdoor/web/doorController/doorApp.js",
+		"/Users/bbrown/yam/yamdoor/web/bower.json",
+		"/opt/boxen/homebrew/etc/redis28.conf",
+		"/Users/bbrown/yam/yamdoor/bower.json",
+		"/Users/bbrown/yam/bidness/.git/COMMIT_EDITMSG",
+		"/Users/bbrown/yam/bidness/web/src/styles/hedge.css",
+		"/Users/bbrown/yam/bidness/web/src/reports/creator.js",
+		"/Users/bbrown/yam/bidness/web/src/styles/hedgefund-theme.css",
+		"/Users/bbrown/yam/bidness/web/src/common/stockHeader.js",
+		"/Users/bbrown/yam/bidness/web/index.js",
+		"/Users/bbrown/yam/bidness/api/index.js",
+		"/Users/bbrown/yam/yamdoor/api/index.js",
+		"/Users/bbrown/yam/bidness/web/src/common/news.js",
+		"/Users/bbrown/yam/bidness/web/src/common/news.html",
+		"/Users/bbrown/yam/bidness/web/src/common/analystData.html",
+		"/Users/bbrown/yam/bidness/web/src/common/services/tooltipService.json",
+		"/Users/bbrown/yam/bidness/web/src/common/financialData.html",
+		"/Users/bbrown/yam/bidness/api/hedge/sector/index.js",
+		"/Users/bbrown/yam/bidness/api/hedge/db/changes.sql",
+		"/Users/bbrown/yam/bidness/web/src/common/marketData.html",
+		"/Users/bbrown/yam/bidness/web/src/common/sectorMarketData.html",
+		"/Users/bbrown/yam/bidness/web/src/home/overview.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/common/stockHoldingsBreakdown.html",
+		"/Users/bbrown/yam/bidness/web/src/reports/report.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/common/income.html",
+		"/Users/bbrown/yam/bidness/web/src/common/rankedHoldings.html",
+		"/Users/bbrown/yam/bidness/api/bloombergService/index.js",
+		"/Users/bbrown/yam/bidness/web/src/common/filters.js",
+		"/Users/bbrown/yam/bidness/web/src/common/services/tooltipService.js",
+		"/Users/bbrown/yam/bidness/web/src/common/optionsSummary.html",
+		"/Users/bbrown/yam/bidness/web/src/home/dashboard.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/home/sector.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/common/graphs/sectorBreakdown.js",
+		"/Users/bbrown/yam/bidness/web/app-assets.json",
+		"/Users/bbrown/yam/bidness/web/src/common/marketData.js",
+		"/Users/bbrown/yam/bidness/web/src/index.js",
+		"/Users/bbrown/yam/bidness/web/src/common/tooltip.js",
+		"/Users/bbrown/yam/bidness/web/src/common/sectorHoldingsBreakdown.html",
+		"/Users/bbrown/yam/bidness/web/src/home/index.js",
+		"/Users/bbrown/yam/bidness/web/src/home/dashboard.js",
+		"/Users/bbrown/yam/yamdoor/Gruntfile.js",
+		"/Users/bbrown/yam/bidness/Gruntfile.js",
+		"/Users/bbrown/yam/yamdoor/.git/COMMIT_EDITMSG",
+		"/Volumes/Data/prodDumps/hedge_2015-06-22.sql",
+		"/Users/bbrown/yam/bidness/api/pm2-dev.json",
+		"/Users/bbrown/yam/yamdoor/api/pm2-test.json",
+		"/Users/bbrown/yam/bidness/api/pm2-test.json",
+		"/Users/bbrown/yam/bidness/web/pm2-test.json",
+		"/Users/bbrown/yam/yamdoor/api/pm2-dev.json",
+		"/Users/bbrown/yam/bidness/web/pm2-dev.json",
+		"/Users/bbrown/yam/bidness/api/pm2.json",
+		"/Users/bbrown/yam/bidness/web/src/common/sectorHoldingsBreakdown.js",
+		"/Users/bbrown/yam/bidness/web/src/common/graphs/sectorBreakdown.html",
+		"/Volumes/Data/Dump20150622-2.sql",
+		"/Users/bbrown/src/bbrown.github.com/_config.yml",
+		"/Users/bbrown/yam/yamdoor/api/config.json",
+		"/Users/bbrown/yam/yamdoor/config.json",
+		"/Users/bbrown/yam/bidness/config.json",
+		"/Users/bbrown/src/bbrown.github.com/.git/COMMIT_EDITMSG",
+		"/Users/bbrown/yam/bidness/web/logs/pm2-web-err-5.log",
+		"/Users/bbrown/yam/bidness/web/pm2.json",
+		"/Users/bbrown/yam/bidness/pm2.json",
+		"/Users/bbrown/yam/bidness/web/src/common/stockHoldingsBreakdown.js",
+		"/Users/bbrown/yam/bidness/web/src/edit/calls.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/calls.js",
+		"/Users/bbrown/yam/bidness/web/src/common/sectorMarketData.js",
+		"/Users/bbrown/yam/bidness/web/src/home/sector.js",
+		"/Users/bbrown/yam/bidness/web/src/edit/realizedGain.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/puts.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/stockDetails.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/otherTransactions.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/dividends.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/stockDetails.js",
+		"/Users/bbrown/yam/bidness/web/src/edit/otherTransactions.js",
+		"/Users/bbrown/yam/bidness/web/src/edit/dividends.js",
+		"/Users/bbrown/yam/bidness/web/src/edit/realizedGain.js",
+		"/Users/bbrown/yam/bidness/web/src/edit/puts.js",
+		"/Users/bbrown/yam/bidness/web/src/reports/creator.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/reports/index.js",
+		"/Users/bbrown/yam/bidness/web/templates/hedge.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/cash.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/common/sectorMarketBreakdown.html",
+		"/Users/bbrown/yam/start.json",
+		"/Users/bbrown/yam/bidness/api/hedge/routes/sector.js",
+		"/Users/bbrown/yam/bidness/web/src/common/currentHoldings.html",
+		"/Users/bbrown/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/bbrown/yam/bidness/web/src/common/services/stock.js",
+		"/Users/bbrown/Downloads/YAM Hedgefund Theme/index.html",
+		"/Users/bbrown/yam/bidness/api/hedge/routes/stocks.js",
+		"/Users/bbrown/yam/bidness/api/hedge/data/xigniteStockSymbols.js",
+		"/Users/bbrown/yam/bidness/web/src/reports/reports.js",
+		"/Users/bbrown/yam/bidness/web/src/reports/reports.tpl.html",
+		"/Users/bbrown/yam/bidness/.git/MERGE_MSG",
+		"/Users/bbrown/yam/bidness/web/src/edit/editors.tpl.html",
+		"/Users/bbrown/Downloads/YAM Hedgefund Theme/css/hedgefund-theme.css",
+		"/Users/bbrown/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/bbrown/yam/bidness/web/src/edit/stocks.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/index.js",
+		"/opt/boxen/config/nginx/nginx.conf",
+		"/Users/bbrown/yam/bidness/web/src/edit/interestedStocks.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/house.tpl.html",
+		"/Users/bbrown/yam/bidness/web/src/edit/creditLines.tpl.html",
+		"/Users/bbrown/.bash_profile",
+		"/Library/LaunchDaemons/dev.nginx.plist",
+		"/Users/bbrown/yam/bidness/web/src/reports/report.js",
+		"/Users/bbrown/yam/bidness/api/hedge/routes/report.js",
+		"/Users/bbrown/yam/bidness/web/src/graphs/marketData.js",
+		"/opt/boxen/log/nginx/error.log",
+		"/opt/boxen/log/nginx/access.log",
+		"/Users/bbrown/Desktop/securities.json",
+		"/Users/bbrown/Desktop/securities.min.json",
+		"/Users/bbrown/yam/bidness/web/src/edit/cash.js",
+		"/Users/bbrown/yam/bidness/web/src/common/stockDetailDialog.js",
+		"/Users/bbrown/yam/bidness/api/hedge/report/index.js",
+		"/Applications/NetExtender.app/Contents/MacOS/uninstallNetExtender",
+		"/Users/bbrown/.netExtender.log",
+		"/Users/bbrown/Downloads/flattened-yam-hedge/hedge-dashboard.html",
+		"/Users/bbrown/yam/bidness/web/src/common/cashDialog.js",
+		"/Users/bbrown/yam/bidness/api/hedge/data/reportRow.js",
+		"/Users/bbrown/yam/bidness/api/hedge/data/utility.js",
+		"/Users/bbrown/yam/bidness/api/hedge/db/reportcolumn.sql",
+		"/Users/bbrown/yam/bidness/web/src/common/currentHoldings.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/bbrown/yam/bidness/web/src/",
+			"/Users/bbrown/yam/bidness/api/hedge/routes",
+			"*.js,/Users/bbrown/yam/bidness/web/src",
+			"/Users/bbrown/yam/bidness/web/src/*.js",
+			"*.html",
+			"*.js",
+			"*.*",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".wrapper",
+			"\"",
+			"+",
+			"menu",
+			"@media",
+			"print",
+			"overflow-y",
+			"Security",
+			"/usr/local/var/db/redis28/",
+			"linked",
+			"cursor:pointer",
+			"reset",
+			"border-top:2px",
+			"chartData",
+			".table",
+			"auto !important",
+			"20% !important",
+			"\": \"(.+)\",\\n",
+			"yield",
+			".wrapper",
+			"211px",
+			"print",
+			"adjusted",
+			"{{ type }}",
+			"tooltip",
+			"options",
+			"> ",
+			"alternate",
+			"alternat",
+			"\\([0-9]{4,5},",
+			"([0-9]{4,5},",
+			"comments",
+			"stockHoldings",
+			"vm.",
+			"cache",
+			"market-data",
+			"price",
+			"market-data",
+			"resolution",
+			"first",
+			"@media",
+			"768px",
+			"thead",
+			" th",
+			" th\\.",
+			" th ",
+			"\\.data",
+			"data",
+			"\\.menu",
+			".menu",
+			"20%",
+			"reports",
+			".editor",
+			"report",
+			"content",
+			"#content",
+			"animate",
+			"tag",
+			"searchSymbols",
+			"search",
+			"stocks",
+			"production-warning",
+			"enter",
+			"\"Currency\": \"[^U]",
+			"font-size:",
+			" class=\"editor-label\"",
+			"btn-group",
+			"#market",
+			"price",
+			".price",
+			".widget ",
+			"container",
+			"active",
+			" class=\"editors\"",
+			"stocks",
+			".modal",
+			":hover",
+			".info",
+			".editor",
+			"edit",
+			"height",
+			"btn-group",
+			"glyphicon",
+			"icon",
+			"font-size",
+			"img/",
+			"\"Symbol\"",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z0-9\\s/\\.\\+]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)',\\?]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z0-9\\s/\\.]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)',\\?]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z0-9/\\.]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)',\\?]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z/\\.]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)',\\?]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z/]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)',\\?]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z/]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)',]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z/]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)']+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z/]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%\\(\\)]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+%]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/\\+]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-/]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.\\-]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &\\.]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 &]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n*\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 ]+)\"\\n*\\s+\\},",
+			"\\{\\s*\\n\\s*\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 ]+)\"\\n\\s+\\},",
+			"{\\n\\s+\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 ]+)\"\\n\\s+},",
+			"\"Symbol\": \"([A-Z]+)\",\\n\\s+\"Name\": \"([A-Za-z0-9 ]+)\"\\n",
+			"\"Currency\":",
+			"Currency",
+			"\n            \"Currency\": \"USD\",",
+			"\"Currency\": \"[^U]",
+			"CLX",
+			"5",
+			"colspan",
+			"store",
+			"stocks",
+			"title=\"",
+			"http://localhost:8100/",
+			"Reports",
+			"hedge-dashboard_files",
+			"memoize",
+			"placeholder",
+			"report",
+			"`cash`",
+			"cash",
+			"getReport",
+			"reportrow",
+			"reportgrouping",
+			"'GET'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"\\n$1\\n\\n",
+			"(",
+			"{ \"\\1\": \"\\2\" },",
+			"\"\\1\": \"\\2\"",
+			"",
+			"hedge-files",
+			"description: ' ',",
+			"notes: ' '",
+			") {",
+			",",
+			"\n								name: $rootScope.stockMapping[stocks[element.stockId].tickerSymbol];\n								symbol: stocks[element.stockId].tickerSymbol;\n								sector: $rootScope.sectorMapping[stocks[element.stockId].sectorSymbol].sectorName;\n								sectorSymbol: stocks[element.stockId].sectorSymbol;\n								search: element.name + \" \" + element.symbol + \" \" + element.sector + \" \" + element.stockTag;",
+			": ",
+			"name : $rootScope.stockMapping[stocks[element.stockId].tickerSymbol];\n								symbol : stocks[element.stockId].tickerSymbol;\n								sector : $rootScope.sectorMapping[stocks[element.stockId].sectorSymbol].sectorName;\n								sectorSymbol : stocks[element.stockId].sectorSymbol;\n								search : element.name + \" \" + element.symbol + \" \" + element.sector + \" \" + element.stockTag;",
+			":",
+			"name = $rootScope.stockMapping[stocks[element.stockId].tickerSymbol];\n								symbol = stocks[element.stockId].tickerSymbol;\n								sector = $rootScope.sectorMapping[stocks[element.stockId].sectorSymbol].sectorName;\n								sectorSymbol = stocks[element.stockId].sectorSymbol;\n								search = element.name + \" \" + element.symbol + \" \" + element.sector + \" \" + element.stockTag;",
+			"",
+			"\\t\\t\\t\\t\\t\\};",
+			"\\t\\t\\t\\t\\t\\t\"",
+			"\\t\\t\\t\\t\\t",
+			"$scope.stocks[",
+			"\\t",
+			"}",
+			"$scope.stocks[",
+			"};\\n",
+			"stocks[$1] = {",
+			"\\t\\},",
+			"",
+			"{",
+			"},",
+			"\"$1\":\"$2\",",
+			"",
+			"},",
+			"{",
+			"},\n	{",
+			"},",
+			"",
+			"}",
+			"{",
+			"\"$1\":\"$2\"",
+			"",
+			"\"$1\":\"$2\",",
+			"\"$1\":",
+			"},",
+			"{",
+			"'\\1',",
+			"\\1",
+			"\"",
+			"",
+			"/|||\\1|||/",
+			"{ \"name\":\"\\1\", \"src\":\"\\2\", \"isGusseted\":false },",
+			"{\"name\":\"\\1\", \"src\":\"\\2\", \"isGusseted\":false },",
+			"{\"name\":\"\\1\", \"src\":\"\\2\" },",
+			"<img src=\"\\1\" width=\"400\" />",
+			"<tr><td>\\1</td><td><img src=\"\\2\" /></td>",
+			"<tr><td>\\1</td><td><img src=\"\\2\" /></td></tr>",
+			"",
+			"\"\\1: \" + oShopperSearchDataReader[\"\\1\"].ToString() + \";",
+			"\\1",
+			"[@L[pc.internal:Header.TimeManager]@L]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bblog.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"change",
+				"api/hedge/db/changes.sql"
+			],
+			[
+				"index.js",
+				"web/index.js"
+			],
+			[
+				"stcokevent",
+				"api/hedge/stockEvent/index.js"
+			],
+			[
+				"sector",
+				"web/src/sector/sector.tpl.html"
+			],
+			[
+				"hedgeser",
+				"web/src/common/hedgeServices.js"
+			],
+			[
+				"hedgeservices",
+				"web/src/common/hedgeServices.js"
+			],
+			[
+				"package",
+				"api/package.json"
+			],
+			[
+				"index",
+				"api/index.js"
+			],
+			[
+				"mouse",
+				"mousetrap.help/mousetrap.help.js"
+			],
+			[
+				"ks",
+				"ks.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"GetStocksFor",
+				"getStocksForSector"
+			],
+			[
+				"angular",
+				"angular.mock"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
